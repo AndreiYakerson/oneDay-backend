@@ -15679,3 +15679,149 @@
 5.11.2025, 10:40:50 - INFO - New connected socket [id: knkPWfvf06ErVPpjAAAB]
 5.11.2025, 10:40:53 - INFO - Server is running on port: 3030
 5.11.2025, 10:40:54 - INFO - New connected socket [id: HiDDLdU_DMQ8OEKCAAAB]
+5.11.2025, 10:46:26 - INFO - Server is running on port: 3030
+5.11.2025, 10:46:28 - INFO - New connected socket [id: 4kRg74c4Snv37IkHAAAB]
+5.11.2025, 10:46:29 - INFO - Server is running on port: 3030
+5.11.2025, 10:46:31 - INFO - New connected socket [id: a8WQF51VgeX78ELZAAAB]
+5.11.2025, 10:47:18 - INFO - Server is running on port: 3030
+5.11.2025, 10:47:19 - INFO - Server is running on port: 3030
+5.11.2025, 10:47:19 - INFO - New connected socket [id: 8GR3nbXKoRx4IScCAAAB]
+5.11.2025, 10:47:37 - INFO - Server is running on port: 3030
+5.11.2025, 10:47:38 - INFO - New connected socket [id: KTpNx1D3kPQqBv3CAAAB]
+5.11.2025, 10:47:47 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:47:47 - INFO - New connected socket [id: NQrgRnd7kI6Sq6_QAAAD]
+5.11.2025, 10:47:47 - INFO - Setting socket.userId = 690b0bca16b67718ea1c98ad for socket [id: NQrgRnd7kI6Sq6_QAAAD]
+5.11.2025, 10:47:47 - INFO - /api/board | GET |  | {}
+5.11.2025, 10:47:47 - INFO - /api/board | GET |  | {}
+5.11.2025, 10:47:53 - INFO - Removing socket.userId for socket [id: NQrgRnd7kI6Sq6_QAAAD]
+5.11.2025, 10:48:01 - DEBUG - auth.service - login with username: ckem92
+5.11.2025, 10:48:01 - INFO - User login:  | {"_id":"690b0bca16b67718ea1c98ad","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/dauvuuhdv/image/upload/v1762331566/qhcgwm6qjbaro0jp8qzj.jpg","isAdmin":false,"profession":"dev"}
+5.11.2025, 10:48:01 - INFO - Setting socket.userId = 690b0bca16b67718ea1c98ad for socket [id: NQrgRnd7kI6Sq6_QAAAD]
+5.11.2025, 10:48:01 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:48:01 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:48:10 - INFO - Removing socket.userId for socket [id: NQrgRnd7kI6Sq6_QAAAD]
+5.11.2025, 10:48:15 - DEBUG - auth.service - login with username: adasda | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:48:15 - ERROR - Failed to Login Invalid username or password | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:48:15 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:48:15 - INFO - New connected socket [id: LxOGqtyIojqdxyyIAAAF]
+5.11.2025, 10:48:27 - DEBUG - auth.service - login with username: asdasd | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:48:27 - ERROR - Failed to Login Invalid username or password | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:48:27 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:48:28 - INFO - New connected socket [id: HjSmriLm1gXMN-wXAAAH]
+5.11.2025, 10:48:38 - INFO - Server is running on port: 3030
+5.11.2025, 10:48:39 - INFO - New connected socket [id: 0EN_FwUuFbnysm_-AAAB]
+5.11.2025, 10:49:07 - INFO - Server is running on port: 3030
+5.11.2025, 10:49:09 - INFO - New connected socket [id: OrChLmVSVYES-Xy0AAAB]
+5.11.2025, 10:49:35 - INFO - Server is running on port: 3030
+5.11.2025, 10:49:36 - INFO - New connected socket [id: WVJjqkRRGuHryp_eAAAB]
+5.11.2025, 10:50:02 - DEBUG - auth.service - login with username: asd | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:50:03 - ERROR - Failed to Login Invalid username or password | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:50:03 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:50:03 - INFO - New connected socket [id: AQsjS4pdEKwRacr0AAAD]
+5.11.2025, 10:50:17 - INFO - Server is running on port: 3030
+5.11.2025, 10:50:18 - INFO - New connected socket [id: zUjKj0NXp2Es6FSgAAAB]
+5.11.2025, 10:50:20 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:50:20 - INFO - New connected socket [id: i1wYqOh-hjIlCbmeAAAD]
+5.11.2025, 10:50:25 - DEBUG - auth.service - login with username: asd | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:50:25 - ERROR - Failed to Login Invalid username or password | 690b0bca16b67718ea1c98ad
+5.11.2025, 10:50:25 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:50:25 - INFO - New connected socket [id: 49dnoxFAS4DquPm-AAAF]
+5.11.2025, 10:50:50 - INFO - Server is running on port: 3030
+5.11.2025, 10:50:51 - INFO - New connected socket [id: dOj_Wi1xV-IOw5GXAAAB]
+5.11.2025, 10:59:18 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 10:59:18 - INFO - New connected socket [id: jvu3iBFcwCKL6NJEAAAD]
+5.11.2025, 11:03:05 - INFO - Server is running on port: 3030
+5.11.2025, 11:03:05 - INFO - New connected socket [id: ao5rGbt-KJ0bJB74AAAB]
+5.11.2025, 11:03:06 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:03:38 - INFO - New connected socket [id: pQeewoXjhGINzQ--AAAD]
+5.11.2025, 11:05:03 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+5.11.2025, 11:05:03 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+5.11.2025, 11:05:03 - DEBUG - auth.service - signup with username: HappyGuest3, fullname: HappyGuest | 690b0bca16b67718ea1c98ad
+5.11.2025, 11:05:04 - DEBUG - auth.route - new account created: {"username":"HappyGuest3","password":"$2b$10$.dvmVtVlcG5sFEesjiPur.ZfYMoPDUFjKDJpHrbcysNY3CBGLzX9i","fullname":"HappyGuest","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"690b133f5e59ad4d1a400803"} | 690b0bca16b67718ea1c98ad
+5.11.2025, 11:05:04 - DEBUG - auth.service - login with username: HappyGuest3 | 690b0bca16b67718ea1c98ad
+5.11.2025, 11:05:04 - INFO - User signup: | {"_id":"690b133f5e59ad4d1a400803","username":"HappyGuest3","fullname":"HappyGuest","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"profession":null} | 690b0bca16b67718ea1c98ad
+5.11.2025, 11:05:04 - INFO - Setting socket.userId = 690b133f5e59ad4d1a400803 for socket [id: pQeewoXjhGINzQ--AAAD]
+5.11.2025, 11:05:07 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:07 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:07 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:39 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:39 - INFO - /api/board | GET |  | {} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:39 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:39 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:40 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:05:40 - INFO - New connected socket [id: g5STafwzVtCHZkqcAAAF]
+5.11.2025, 11:05:40 - INFO - Setting socket.userId = 690b133f5e59ad4d1a400803 for socket [id: g5STafwzVtCHZkqcAAAF]
+5.11.2025, 11:05:40 - INFO - /api/board | GET |  | {} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:40 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:40 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:40 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:44 - INFO - Broadcasting event: event-update-tasks-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:44 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:46 - INFO - Broadcasting event: event-update-tasks-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:46 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:57 - INFO - Broadcasting event: event-update-tasks-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:05:57 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:07:10 - INFO - Broadcasting event: event-update-tasks-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:07:10 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:24 - INFO - Broadcasting event: event-update-tasks-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:24 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:27 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:27 - INFO - Broadcasting event: event-add-group | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:33 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:33 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:49 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:08:49 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:47 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:09:47 - INFO - New connected socket [id: wpZf_l0ESALtkMAPAAAH]
+5.11.2025, 11:09:47 - INFO - Setting socket.userId = 690b133f5e59ad4d1a400803 for socket [id: wpZf_l0ESALtkMAPAAAH]
+5.11.2025, 11:09:48 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:48 - INFO - /api/board | GET |  | {} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:48 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:48 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:56 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:09:56 - INFO - New connected socket [id: qciF7fHDk07m_nQ1AAAJ]
+5.11.2025, 11:09:56 - INFO - Setting socket.userId = 690b133f5e59ad4d1a400803 for socket [id: qciF7fHDk07m_nQ1AAAJ]
+5.11.2025, 11:09:56 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:56 - INFO - /api/board | GET |  | {} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:56 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:09:56 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:10:18 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:10:18 - INFO - New connected socket [id: 206pQOAlflZDQt-SAAAL]
+5.11.2025, 11:10:18 - INFO - Setting socket.userId = 690b133f5e59ad4d1a400803 for socket [id: 206pQOAlflZDQt-SAAAL]
+5.11.2025, 11:10:18 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:10:18 - INFO - /api/board | GET |  | {} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:10:18 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:10:18 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:10:54 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:10:54 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:14:04 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:14:04 - INFO - New connected socket [id: _V_oTDy2qNHrRs8gAAAN]
+5.11.2025, 11:14:04 - INFO - Setting socket.userId = 690b133f5e59ad4d1a400803 for socket [id: _V_oTDy2qNHrRs8gAAAN]
+5.11.2025, 11:14:04 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:14:04 - INFO - /api/board | GET |  | {} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:14:04 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:14:04 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b133f5e59ad4d1a400803
+5.11.2025, 11:17:04 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:17:04 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:17:59 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:17:59 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:21:14 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:21:14 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:22:30 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:22:30 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:22:47 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:22:47 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:22:51 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:22:51 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:10 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:10 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:13 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:13 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:51 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:51 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:54 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:23:54 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:24:25 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:24:25 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:27:22 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
+5.11.2025, 11:27:22 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
