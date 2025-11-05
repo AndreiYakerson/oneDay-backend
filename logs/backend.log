@@ -15825,3 +15825,7 @@
 5.11.2025, 11:24:25 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
 5.11.2025, 11:27:22 - INFO - Broadcasting event: event-update-groups-order | 690b133f5e59ad4d1a400803
 5.11.2025, 11:27:22 - INFO - Broadcast to room 690afd52b6d5ce2702169357 excluding user: 690b133f5e59ad4d1a400803 | 690b133f5e59ad4d1a400803
+5.11.2025, 11:30:01 - INFO - Server is running on port: 3030
+5.11.2025, 11:30:01 - INFO - New connected socket [id: T0loZpq1-mJ4FbnHAAAB]
+5.11.2025, 11:30:03 - INFO - Server is running on port: 3030
+5.11.2025, 11:30:04 - INFO - New connected socket [id: b0P5xi3gva9n74SLAAAB]
