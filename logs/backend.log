@@ -14651,3 +14651,1027 @@
 4.11.2025, 22:29:11 - INFO - Server is running on port: 3030
 4.11.2025, 22:29:15 - INFO - Server is running on port: 3030
 4.11.2025, 22:29:22 - INFO - Server is running on port: 3030
+4.11.2025, 22:47:02 - INFO - New connected socket [id: tCd1e_bxWj6WabaDAAAB]
+4.11.2025, 22:47:04 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 22:47:04 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 22:47:04 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 22:47:04 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 22:47:50 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:47:50 - INFO - New connected socket [id: rmWyRTOexHNdx2ICAAAD]
+4.11.2025, 22:48:05 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:48:05 - INFO - New connected socket [id: nSeF6cju3m5E6z78AAAF]
+4.11.2025, 22:48:56 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:48:56 - INFO - New connected socket [id: f1tXHvEeB1ZQey5nAAAH]
+4.11.2025, 22:49:07 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:49:07 - INFO - New connected socket [id: yEqTERF1iO1R5_DHAAAJ]
+4.11.2025, 22:50:56 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:50:57 - INFO - New connected socket [id: kC_cXRxkOITsjYzrAAAL]
+4.11.2025, 22:56:26 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:56:26 - INFO - New connected socket [id: sZmA3TB8APV5-hmAAAAN]
+4.11.2025, 22:58:21 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:58:21 - INFO - New connected socket [id: ubqo400TIKtkDsYBAAAP]
+4.11.2025, 22:59:37 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 22:59:37 - INFO - New connected socket [id: IpsacLOsOPZIKF2PAAAR]
+4.11.2025, 23:00:24 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:00:25 - INFO - New connected socket [id: wfwS-i8ttjy2ovCgAAAT]
+4.11.2025, 23:00:26 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:00:26 - INFO - New connected socket [id: 7FUChh_-l60U4rzsAAAV]
+4.11.2025, 23:00:44 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:00:44 - INFO - New connected socket [id: o2d_f1vY-MeYRRPaAAAX]
+4.11.2025, 23:03:24 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:03:24 - INFO - New connected socket [id: dGcC2EL2BelyooSdAAAZ]
+4.11.2025, 23:04:43 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:04:44 - INFO - New connected socket [id: c7AJn-iU1r4DEwZRAAAb]
+4.11.2025, 23:04:52 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:04:52 - INFO - New connected socket [id: FqTA9GjD0sBW4a5vAAAd]
+4.11.2025, 23:04:53 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:04:53 - INFO - New connected socket [id: dYcjEHwyXhpO5BWBAAAf]
+4.11.2025, 23:09:33 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:09:34 - INFO - New connected socket [id: DxxVPGpnO-42_I6aAAAh]
+4.11.2025, 23:09:36 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:09:36 - INFO - New connected socket [id: hCEBN8muYhxhbZNBAAAj]
+4.11.2025, 23:11:24 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:11:24 - INFO - New connected socket [id: m6Mepxe9CgygpLUCAAAl]
+4.11.2025, 23:12:09 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:12:10 - INFO - New connected socket [id: VWcCjAko6bUABpurAAAn]
+4.11.2025, 23:12:11 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:12:11 - INFO - New connected socket [id: 2aYiWV-mnuSEd9nFAAAp]
+4.11.2025, 23:12:57 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:12:57 - INFO - New connected socket [id: npbRM5Gx_xPtKPuwAAAr]
+4.11.2025, 23:13:01 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:13:01 - INFO - New connected socket [id: uDqtJewgDduco-rJAAAt]
+4.11.2025, 23:13:07 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:13:07 - INFO - New connected socket [id: 87TntdQEdKqEVv-MAAAv]
+4.11.2025, 23:13:22 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:13:22 - INFO - New connected socket [id: qB0NeEvPiKJ5hyNRAAAx]
+4.11.2025, 23:13:48 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:13:48 - INFO - New connected socket [id: QFT32XK3gnQQ9EZcAAAz]
+4.11.2025, 23:13:52 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:13:52 - INFO - New connected socket [id: nlAIKOTJ1aSb5tdOAAA1]
+4.11.2025, 23:13:58 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:13:59 - INFO - New connected socket [id: gy1DPfnmQHDxJLORAAA3]
+4.11.2025, 23:14:05 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:14:05 - INFO - New connected socket [id: hX0AeOnSzDXkErY9AAA5]
+4.11.2025, 23:14:44 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:14:45 - INFO - New connected socket [id: l99VwxD9g317mf9GAAA7]
+4.11.2025, 23:14:47 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:14:47 - INFO - New connected socket [id: PFoHmnR0k-JKnDB-AAA9]
+4.11.2025, 23:15:54 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:15:54 - INFO - New connected socket [id: C0ch-6v-JsYrghbCAAA_]
+4.11.2025, 23:17:54 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:17:55 - INFO - New connected socket [id: RJALKJS6VjbFRIEcAABB]
+4.11.2025, 23:17:57 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:17:57 - INFO - New connected socket [id: aRK8VDaMCV7EOqMCAABD]
+4.11.2025, 23:17:59 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:17:59 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:17:59 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:17:59 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:18:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:18:02 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:18:02 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:18:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:18:12 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:18:12 - INFO - New connected socket [id: 8MT0y-NzBkwtylYKAABF]
+4.11.2025, 23:19:21 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:19:22 - INFO - New connected socket [id: EE5cJGSfqbPNUo69AABH]
+4.11.2025, 23:20:14 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:20:14 - INFO - New connected socket [id: WAF2bOWRLWrFjmlEAABJ]
+4.11.2025, 23:22:45 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:22:45 - INFO - New connected socket [id: SvAtKk3yRbHJiY_zAABL]
+4.11.2025, 23:22:47 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:47 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:47 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:47 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:50 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:22:50 - INFO - New connected socket [id: 4UswocqWLpiF7LBDAABN]
+4.11.2025, 23:22:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:22:52 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:14 - INFO - Server is running on port: 3030
+4.11.2025, 23:23:17 - INFO - New connected socket [id: A4wdV9wwbIgd5OiLAAAB]
+4.11.2025, 23:23:20 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:23:20 - INFO - New connected socket [id: CZtcgp7SMJFcjGD8AAAD]
+4.11.2025, 23:23:20 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:20 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:20 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:20 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:21 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:23:23 - INFO - New connected socket [id: 83XMje3980OE1MnAAAAF]
+4.11.2025, 23:23:23 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:23:23 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:25:25 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:25:33 - INFO - Server is running on port: 3030
+4.11.2025, 23:27:16 - INFO - Server is running on port: 3030
+4.11.2025, 23:28:11 - INFO - New connected socket [id: _oSSMYXGNDcBYLKIAAAB]
+4.11.2025, 23:28:17 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:28:17 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:28:17 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:28:17 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:28:41 - INFO - Server is running on port: 3030
+4.11.2025, 23:28:42 - INFO - New connected socket [id: If8NWbG4tE9Xz9NOAAAB]
+4.11.2025, 23:30:23 - INFO - Server is running on port: 3030
+4.11.2025, 23:30:24 - INFO - New connected socket [id: gDY0KA6N05uaVNF7AAAB]
+4.11.2025, 23:30:25 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:30:25 - INFO - New connected socket [id: AXIIzfx6eQwZjYRdAAAD]
+4.11.2025, 23:30:25 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:25 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:30:33 - INFO - New connected socket [id: JI4sc0QxysHQc1wWAAAF]
+4.11.2025, 23:30:33 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:33 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:35 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:30:36 - INFO - New connected socket [id: ilPLK6bMKwVb59MGAAAH]
+4.11.2025, 23:30:36 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:30:36 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:31:45 - INFO - New connected socket [id: Cfr9XQ-hxDXjOPuvAAAJ]
+4.11.2025, 23:31:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Failed to get users | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+4.11.2025, 23:31:45 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:25 - INFO - Server is running on port: 3030
+5.11.2025, 8:42:28 - INFO - New connected socket [id: Fnog3TiNfhGrPw-tAAAB]
+5.11.2025, 8:42:28 - INFO - Setting socket.userId = bnbue for socket [id: Fnog3TiNfhGrPw-tAAAB]
+5.11.2025, 8:42:32 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:42:32 - INFO - New connected socket [id: E3GO2Q7Qgpn87e6TAAAD]
+5.11.2025, 8:42:32 - INFO - Setting socket.userId = bnbue for socket [id: E3GO2Q7Qgpn87e6TAAAD]
+5.11.2025, 8:42:32 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:42:32 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:20 - INFO - Server is running on port: 3030
+5.11.2025, 8:43:21 - INFO - New connected socket [id: 3UYauygmL0qn_EzUAAAB]
+5.11.2025, 8:43:26 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:43:26 - INFO - New connected socket [id: 9FyxN3ZmlQZJfaDCAAAD]
+5.11.2025, 8:43:26 - INFO - Setting socket.userId = bnbue for socket [id: 9FyxN3ZmlQZJfaDCAAAD]
+5.11.2025, 8:43:26 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:26 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:43:44 - INFO - Server is running on port: 3030
+5.11.2025, 8:43:45 - INFO - New connected socket [id: FTtln1i9F6uy0a2pAAAB]
+5.11.2025, 8:44:26 - INFO - Server is running on port: 3030
+5.11.2025, 8:44:27 - INFO - New connected socket [id: jIyAGCy3TLPC0uieAAAB]
+5.11.2025, 8:44:28 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:44:28 - INFO - New connected socket [id: liYUg6HSYEp8m0xJAAAD]
+5.11.2025, 8:44:28 - INFO - Setting socket.userId = bnbue for socket [id: liYUg6HSYEp8m0xJAAAD]
+5.11.2025, 8:44:28 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:28 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:28 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:28 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:28 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:29 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:29 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:29 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:29 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:29 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:38 - INFO - Server is running on port: 3030
+5.11.2025, 8:44:39 - INFO - New connected socket [id: gVPEgLoMQucpX5QAAAAB]
+5.11.2025, 8:44:47 - INFO - Server is running on port: 3030
+5.11.2025, 8:44:48 - INFO - New connected socket [id: aV7RTqOO-S74NpRYAAAB]
+5.11.2025, 8:44:49 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:44:50 - INFO - New connected socket [id: Itru2Gp0wuvYfVrbAAAD]
+5.11.2025, 8:44:50 - INFO - Setting socket.userId = bnbue for socket [id: Itru2Gp0wuvYfVrbAAAD]
+5.11.2025, 8:44:50 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:44:50 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:14 - INFO - Server is running on port: 3030
+5.11.2025, 8:45:14 - INFO - New connected socket [id: Helf2cI3Li5JJwFMAAAB]
+5.11.2025, 8:45:19 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:45:19 - INFO - New connected socket [id: EohRtXs8GKNqpuCMAAAD]
+5.11.2025, 8:45:19 - INFO - Setting socket.userId = bnbue for socket [id: EohRtXs8GKNqpuCMAAAD]
+5.11.2025, 8:45:19 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:45:19 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:48:29 - INFO - New connected socket [id: YiP0l6yWnNeJUWNGAAAF]
+5.11.2025, 8:48:29 - INFO - Setting socket.userId = bnbue for socket [id: YiP0l6yWnNeJUWNGAAAF]
+5.11.2025, 8:48:29 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:29 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:42 - INFO - /api/board | POST | {"title":"New Board","privacy":"main","managingType":"item","isStarred":false,"createdAt":1762325322768,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"kEDied","title":"Group 1","createdAt":1762325322768,"isCollapsed":false,"tasks":[{"id":"ipqAsQ","title":"Item 1","createdAt":1762325322768,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"3NIoer","title":"Item 2","createdAt":1762325322768,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#f9aa47"}}],"activities":[]} | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:42 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:42 - ERROR - cannot insert board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:42 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:42 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:48 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:48:48 - INFO - New connected socket [id: wwJ_g0qN7RQthLHHAAAH]
+5.11.2025, 8:48:48 - INFO - Setting socket.userId = bnbue for socket [id: wwJ_g0qN7RQthLHHAAAH]
+5.11.2025, 8:48:49 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:48:49 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:49:16 - INFO - New connected socket [id: 01txNQ-n19BfeeGNAAAJ]
+5.11.2025, 8:49:16 - INFO - Setting socket.userId = bnbue for socket [id: 01txNQ-n19BfeeGNAAAJ]
+5.11.2025, 8:49:16 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:49:16 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:44 - INFO - Server is running on port: 3030
+5.11.2025, 8:50:46 - INFO - New connected socket [id: up7qu4jOrAUWfHn8AAAB]
+5.11.2025, 8:50:49 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:50:50 - INFO - New connected socket [id: veIifxQylel3nYPFAAAD]
+5.11.2025, 8:50:50 - INFO - Setting socket.userId = bnbue for socket [id: veIifxQylel3nYPFAAAD]
+5.11.2025, 8:50:50 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:50 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:59 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:59 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:59 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:59 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:50:59 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:51:02 - INFO - New connected socket [id: 9QN-bLN4k063neL7AAAF]
+5.11.2025, 8:51:02 - INFO - Setting socket.userId = bnbue for socket [id: 9QN-bLN4k063neL7AAAF]
+5.11.2025, 8:51:02 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:51:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:07 - INFO - Server is running on port: 3030
+5.11.2025, 8:52:07 - INFO - New connected socket [id: CWA0m2wi5JLjShD8AAAB]
+5.11.2025, 8:52:08 - INFO - Server is running on port: 3030
+5.11.2025, 8:52:08 - INFO - New connected socket [id: a1ofMaFkFMmd2X1pAAAB]
+5.11.2025, 8:52:12 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:52:12 - INFO - New connected socket [id: U2cI4JhN6MUC2SAWAAAD]
+5.11.2025, 8:52:12 - INFO - Setting socket.userId = bnbue for socket [id: U2cI4JhN6MUC2SAWAAAD]
+5.11.2025, 8:52:12 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:12 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:40 - INFO - Server is running on port: 3030
+5.11.2025, 8:52:40 - INFO - New connected socket [id: 6kMFzB2y4pS0kJfBAAAB]
+5.11.2025, 8:52:42 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:52:42 - INFO - New connected socket [id: rBVYDMoO4L0uj2c0AAAD]
+5.11.2025, 8:52:42 - INFO - Setting socket.userId = bnbue for socket [id: rBVYDMoO4L0uj2c0AAAD]
+5.11.2025, 8:52:42 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:52:42 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:06 - INFO - Server is running on port: 3030
+5.11.2025, 8:53:07 - INFO - New connected socket [id: KRQ0u8zL8p_yE5e-AAAB]
+5.11.2025, 8:53:10 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:53:10 - INFO - New connected socket [id: CdMplnlwhUDH2co4AAAD]
+5.11.2025, 8:53:10 - INFO - Setting socket.userId = bnbue for socket [id: CdMplnlwhUDH2co4AAAD]
+5.11.2025, 8:53:10 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:53:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:09 - INFO - Server is running on port: 3030
+5.11.2025, 8:54:10 - INFO - New connected socket [id: 7fRi8NPobaXehj0zAAAB]
+5.11.2025, 8:54:15 - INFO - Server is running on port: 3030
+5.11.2025, 8:54:16 - INFO - New connected socket [id: wJcpiml2SH_bM6BIAAAB]
+5.11.2025, 8:54:18 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:54:18 - INFO - New connected socket [id: suMbIM3HcjYl7z8TAAAD]
+5.11.2025, 8:54:18 - INFO - Setting socket.userId = bnbue for socket [id: suMbIM3HcjYl7z8TAAAD]
+5.11.2025, 8:54:18 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:18 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:54:50 - INFO - Server is running on port: 3030
+5.11.2025, 8:54:52 - INFO - Server is running on port: 3030
+5.11.2025, 8:54:52 - INFO - New connected socket [id: -_ZWEJis7PHWFz_wAAAB]
+5.11.2025, 8:55:01 - INFO - Server is running on port: 3030
+5.11.2025, 8:55:02 - INFO - New connected socket [id: SkKdTpnEIsXkBfbqAAAB]
+5.11.2025, 8:55:03 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:55:04 - INFO - New connected socket [id: 3t9nvKRWbuhrwxPQAAAD]
+5.11.2025, 8:55:04 - INFO - Setting socket.userId = bnbue for socket [id: 3t9nvKRWbuhrwxPQAAAD]
+5.11.2025, 8:55:04 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:04 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:26 - INFO - Server is running on port: 3030
+5.11.2025, 8:55:28 - INFO - Server is running on port: 3030
+5.11.2025, 8:55:28 - INFO - New connected socket [id: S0vcrXhQZAtRBIFyAAAB]
+5.11.2025, 8:55:41 - INFO - Server is running on port: 3030
+5.11.2025, 8:55:42 - INFO - New connected socket [id: TIM0qmvtm2KaCCxdAAAB]
+5.11.2025, 8:55:43 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:55:43 - INFO - New connected socket [id: QKI69UsK7ym98XJhAAAD]
+5.11.2025, 8:55:43 - INFO - Setting socket.userId = bnbue for socket [id: QKI69UsK7ym98XJhAAAD]
+5.11.2025, 8:55:43 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:43 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:55:56 - INFO - Server is running on port: 3030
+5.11.2025, 8:55:57 - INFO - New connected socket [id: oNuK94jV_cHlDSQHAAAB]
+5.11.2025, 8:56:10 - INFO - Server is running on port: 3030
+5.11.2025, 8:56:11 - INFO - New connected socket [id: 7BFr9qhHJCclnP64AAAB]
+5.11.2025, 8:56:23 - INFO - Server is running on port: 3030
+5.11.2025, 8:56:24 - INFO - New connected socket [id: DfQcu6RqwvbILiv9AAAB]
+5.11.2025, 8:56:26 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:56:26 - INFO - New connected socket [id: j153ueeH404uC4ITAAAD]
+5.11.2025, 8:56:26 - INFO - Setting socket.userId = bnbue for socket [id: j153ueeH404uC4ITAAAD]
+5.11.2025, 8:56:26 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:26 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:44 - INFO - Server is running on port: 3030
+5.11.2025, 8:56:45 - INFO - New connected socket [id: 90_QymnsQLKX7EZjAAAB]
+5.11.2025, 8:56:45 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:56:45 - INFO - New connected socket [id: TALMoxB3ToVjeQMBAAAD]
+5.11.2025, 8:56:45 - INFO - Setting socket.userId = bnbue for socket [id: TALMoxB3ToVjeQMBAAAD]
+5.11.2025, 8:56:45 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:56:45 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:13 - INFO - Server is running on port: 3030
+5.11.2025, 8:58:14 - INFO - New connected socket [id: gvVm7-PHn8xhItptAAAB]
+5.11.2025, 8:58:18 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:58:18 - INFO - New connected socket [id: R3Qdi4aErlHDaAEkAAAD]
+5.11.2025, 8:58:18 - INFO - Setting socket.userId = bnbue for socket [id: R3Qdi4aErlHDaAEkAAAD]
+5.11.2025, 8:58:18 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:18 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:58:57 - INFO - Server is running on port: 3030
+5.11.2025, 8:58:59 - INFO - New connected socket [id: A4-yBwTHIuE80F2oAAAB]
+5.11.2025, 8:59:00 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:59:00 - INFO - New connected socket [id: 6kPGMo6jRJQ3GxTbAAAD]
+5.11.2025, 8:59:00 - INFO - Setting socket.userId = bnbue for socket [id: 6kPGMo6jRJQ3GxTbAAAD]
+5.11.2025, 8:59:00 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:00 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:29 - INFO - Server is running on port: 3030
+5.11.2025, 8:59:30 - INFO - New connected socket [id: 9NzbobUTKkMcTpJKAAAB]
+5.11.2025, 8:59:31 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:59:31 - INFO - New connected socket [id: p7MstqG2Zf9_uaC5AAAD]
+5.11.2025, 8:59:31 - INFO - Setting socket.userId = bnbue for socket [id: p7MstqG2Zf9_uaC5AAAD]
+5.11.2025, 8:59:31 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:31 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:47 - INFO - /api/board | POST | {"title":"New Board","privacy":"main","managingType":"item","isStarred":false,"createdAt":1762325987411,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"aOmkJg","title":"Group 1","createdAt":1762325987412,"isCollapsed":false,"tasks":[{"id":"DptSRg","title":"Item 1","createdAt":1762325987412,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"gnA8FA","title":"Item 2","createdAt":1762325987412,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#17804d"}}],"activities":[]} | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:47 - INFO - Broadcasting event: event-add-board | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:47 - INFO - Emit to all | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:56 - INFO - Broadcasting event: event-add-task | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:56 - INFO - Emit to room: 690af5e3c824f7febd1bcd7e | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:59 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 8:59:59 - INFO - New connected socket [id: ECEZfWCfC6JaUjCcAAAF]
+5.11.2025, 8:59:59 - INFO - Setting socket.userId = bnbue for socket [id: ECEZfWCfC6JaUjCcAAAF]
+5.11.2025, 8:59:59 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:59 - INFO - /api/board | GET |  | {} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:59 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 8:59:59 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 6905b142e9a036fae5cb63ca
+5.11.2025, 9:00:00 - INFO - Removing socket.userId for socket [id: ECEZfWCfC6JaUjCcAAAF]
+5.11.2025, 9:00:35 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:00:35 - INFO - New connected socket [id: 47Z4tEnUxP2Es1h1AAAH]
+5.11.2025, 9:00:39 - DEBUG - auth.service - login with username: ckem92 | 6905b142e9a036fae5cb63ca
+5.11.2025, 9:00:39 - INFO - User login:  | {"_id":"68fe62e984b5fa7140477e79","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/dy972hmba/image/upload/v1761501926/cqwlulnf8zedwj24dueg.jpg","isAdmin":false} | 6905b142e9a036fae5cb63ca
+5.11.2025, 9:00:39 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 47Z4tEnUxP2Es1h1AAAH]
+5.11.2025, 9:00:39 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:00:39 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:00:42 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:00:42 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:00:42 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:00:46 - INFO - Broadcasting event: event-add-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:00:46 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:24 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:24 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:24 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:27 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:01:27 - INFO - New connected socket [id: fODaOtOc4wyL0SctAAAJ]
+5.11.2025, 9:01:27 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: fODaOtOc4wyL0SctAAAJ]
+5.11.2025, 9:01:27 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:27 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:27 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:27 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:32 - INFO - Broadcasting event: event-add-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:01:32 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:11 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:11 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:11 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:11 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:46 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:46 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:46 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:02:46 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:07 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:03:08 - INFO - New connected socket [id: tcxLChMV0A7b_P7wAAAL]
+5.11.2025, 9:03:08 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: tcxLChMV0A7b_P7wAAAL]
+5.11.2025, 9:03:08 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:08 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:08 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:08 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:18 - INFO - Broadcasting event: event-remove-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:18 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:21 - INFO - Broadcasting event: event-remove-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:21 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:23 - INFO - Broadcasting event: event-remove-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:23 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:25 - INFO - Broadcasting event: event-duplicate-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:25 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:30 - INFO - Broadcasting event: event-duplicate-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:30 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:33 - INFO - Broadcasting event: event-duplicate-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:33 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:38 - INFO - Broadcasting event: event-remove-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:38 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:39 - INFO - Broadcasting event: event-remove-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:39 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:41 - INFO - Broadcasting event: event-remove-task | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:41 - INFO - Broadcast to room 690af5e3c824f7febd1bcd7e excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:03:43 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"undefined"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:04:47 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:04:47 - INFO - New connected socket [id: LzTiQL50WBakIO7eAAAN]
+5.11.2025, 9:04:47 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: LzTiQL50WBakIO7eAAAN]
+5.11.2025, 9:04:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:04:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"undefined"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:04:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:04:47 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:04:47 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:05:03 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:06:54 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:06:55 - INFO - New connected socket [id: 50d8r0V16JERaC9VAAAP]
+5.11.2025, 9:06:55 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 50d8r0V16JERaC9VAAAP]
+5.11.2025, 9:06:55 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:06:55 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:06:58 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:06:58 - INFO - New connected socket [id: uSiNjxi4hhrJwbGzAAAR]
+5.11.2025, 9:06:58 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: uSiNjxi4hhrJwbGzAAAR]
+5.11.2025, 9:06:58 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:06:58 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:07:00 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:07:00 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:07:00 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:01 - INFO - Server is running on port: 3030
+5.11.2025, 9:16:02 - INFO - New connected socket [id: VBL7cqGpVPFJAW9BAAAB]
+5.11.2025, 9:16:10 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:16:10 - INFO - New connected socket [id: H-TaADrg6GwAoWYTAAAD]
+5.11.2025, 9:16:10 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: H-TaADrg6GwAoWYTAAAD]
+5.11.2025, 9:16:10 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - while finding board 690af5e3c824f7febd1bcd7e | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - while finding board 690af5e3c824f7febd1bcd7e | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - INFO - /api/board | GET |  | {"boardId":"690af5e3c824f7febd1bcd7e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - while finding board 690af5e3c824f7febd1bcd7e | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:10 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:18 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:18 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:18 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:16:20 - INFO - New connected socket [id: 3Jvi80Bv4DBh0DczAAAF]
+5.11.2025, 9:16:20 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 3Jvi80Bv4DBh0DczAAAF]
+5.11.2025, 9:16:20 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:20 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:27 - INFO - /api/board | POST | {"title":"New Board","privacy":"main","managingType":"item","isStarred":false,"createdAt":1762326987716,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"YmRiCK","title":"Group 1","createdAt":1762326987716,"isCollapsed":false,"tasks":[{"id":"ja66VU","title":"Item 1","createdAt":1762326987716,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"viOCX2","title":"Item 2","createdAt":1762326987716,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#c8b649"}}],"activities":[]} | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:27 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:27 - ERROR - cannot insert board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:27 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:27 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:16:29 - INFO - New connected socket [id: bLt5rHQ-cze5sNH5AAAH]
+5.11.2025, 9:16:29 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: bLt5rHQ-cze5sNH5AAAH]
+5.11.2025, 9:16:29 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:29 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:16:35 - INFO - Server is running on port: 3030
+5.11.2025, 9:16:36 - INFO - New connected socket [id: VNG3xE6Fl4rtvbZcAAAB]
+5.11.2025, 9:17:10 - INFO - Server is running on port: 3030
+5.11.2025, 9:17:11 - INFO - New connected socket [id: vNUDnk6aJzupbEsnAAAB]
+5.11.2025, 9:17:13 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:17:13 - INFO - New connected socket [id: eWrpiPtXlAgKYSVoAAAD]
+5.11.2025, 9:17:13 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: eWrpiPtXlAgKYSVoAAAD]
+5.11.2025, 9:17:13 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:13 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:28 - INFO - Server is running on port: 3030
+5.11.2025, 9:17:30 - INFO - Server is running on port: 3030
+5.11.2025, 9:17:30 - INFO - New connected socket [id: wjV7MAR3VyfTkK6tAAAB]
+5.11.2025, 9:17:38 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:17:38 - INFO - New connected socket [id: DrJKd7xaOTgF9q64AAAD]
+5.11.2025, 9:17:38 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: DrJKd7xaOTgF9q64AAAD]
+5.11.2025, 9:17:38 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:38 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:17:41 - INFO - Server is running on port: 3030
+5.11.2025, 9:17:42 - INFO - New connected socket [id: yehmui2FsvvILkc5AAAB]
+5.11.2025, 9:17:48 - INFO - Server is running on port: 3030
+5.11.2025, 9:17:49 - INFO - New connected socket [id: 9xRBZuXpSE0orXXDAAAB]
+5.11.2025, 9:18:10 - INFO - Server is running on port: 3030
+5.11.2025, 9:18:11 - INFO - New connected socket [id: TS51EIxFhmL_cZhxAAAB]
+5.11.2025, 9:20:59 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:21:00 - INFO - New connected socket [id: u98ai5w9jBG9U5Q4AAAD]
+5.11.2025, 9:21:00 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: u98ai5w9jBG9U5Q4AAAD]
+5.11.2025, 9:21:00 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:21:00 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:22:46 - INFO - Server is running on port: 3030
+5.11.2025, 9:22:47 - INFO - New connected socket [id: VHDJIdHXGzZEhxg9AAAB]
+5.11.2025, 9:23:27 - INFO - Server is running on port: 3030
+5.11.2025, 9:23:28 - INFO - New connected socket [id: p5AC8niugm2NC0CJAAAB]
+5.11.2025, 9:23:36 - INFO - Server is running on port: 3030
+5.11.2025, 9:23:36 - INFO - New connected socket [id: Z7Ald6RYrYcHia27AAAB]
+5.11.2025, 9:23:40 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:23:40 - INFO - New connected socket [id: 5IiKGLrtqVMZg_0AAAAD]
+5.11.2025, 9:23:40 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 5IiKGLrtqVMZg_0AAAAD]
+5.11.2025, 9:23:40 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:23:40 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:18 - INFO - Server is running on port: 3030
+5.11.2025, 9:24:18 - INFO - New connected socket [id: UXFL6zLwUCoofskCAAAB]
+5.11.2025, 9:24:20 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:24:20 - INFO - New connected socket [id: lQdy7Bj6MxZXyjp9AAAD]
+5.11.2025, 9:24:20 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: lQdy7Bj6MxZXyjp9AAAD]
+5.11.2025, 9:24:20 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - INFO - /api/board | GET |  | {"boardId":"undefined","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - while finding board undefined | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:20 - ERROR - Failed to get board | BSONError: hex string must be 24 characters | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:25 - INFO - Server is running on port: 3030
+5.11.2025, 9:24:28 - INFO - New connected socket [id: VawDRggQB8EXo_FpAAAB]
+5.11.2025, 9:24:29 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:29 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:29 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:29 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:29 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:24:31 - INFO - New connected socket [id: 4FIngLUv1UJ0EhSoAAAD]
+5.11.2025, 9:24:31 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 4FIngLUv1UJ0EhSoAAAD]
+5.11.2025, 9:24:31 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:31 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:57 - INFO - Server is running on port: 3030
+5.11.2025, 9:24:58 - INFO - New connected socket [id: A5uUXukvsKUkmE6xAAAB]
+5.11.2025, 9:24:58 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:24:59 - INFO - New connected socket [id: h2DT1On1NTyTzrqTAAAD]
+5.11.2025, 9:24:59 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: h2DT1On1NTyTzrqTAAAD]
+5.11.2025, 9:24:59 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:24:59 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:25:05 - INFO - Server is running on port: 3030
+5.11.2025, 9:25:06 - INFO - New connected socket [id: fxIIRiRHPbJXWNvFAAAB]
+5.11.2025, 9:25:20 - INFO - Server is running on port: 3030
+5.11.2025, 9:25:21 - INFO - New connected socket [id: NqXyDX9JDMWZsyagAAAB]
+5.11.2025, 9:26:20 - INFO - Server is running on port: 3030
+5.11.2025, 9:26:21 - INFO - New connected socket [id: tSli667RA_xM751jAAAB]
+5.11.2025, 9:26:23 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:26:23 - INFO - New connected socket [id: 4Nl-WTGcVY0f8W75AAAD]
+5.11.2025, 9:26:23 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 4Nl-WTGcVY0f8W75AAAD]
+5.11.2025, 9:26:23 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:26:23 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:26:32 - INFO - Server is running on port: 3030
+5.11.2025, 9:26:32 - INFO - New connected socket [id: jlDROrlxlYWPr30CAAAB]
+5.11.2025, 9:26:36 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:26:36 - INFO - New connected socket [id: JVvG5pNaSPAwJQapAAAD]
+5.11.2025, 9:26:36 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: JVvG5pNaSPAwJQapAAAD]
+5.11.2025, 9:26:36 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:26:36 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:29:57 - INFO - Server is running on port: 3030
+5.11.2025, 9:30:02 - INFO - New connected socket [id: wS83HvZ1u-IZ64K4AAAB]
+5.11.2025, 9:30:16 - INFO - Server is running on port: 3030
+5.11.2025, 9:30:17 - INFO - New connected socket [id: 3Esnac6gwNRASPkYAAAB]
+5.11.2025, 9:30:19 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:30:19 - INFO - New connected socket [id: Otf6NFQioYpsxV_qAAAD]
+5.11.2025, 9:30:19 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: Otf6NFQioYpsxV_qAAAD]
+5.11.2025, 9:30:19 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:19 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:30:23 - INFO - New connected socket [id: FVZLpvzNfaHp-CxFAAAF]
+5.11.2025, 9:30:23 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: FVZLpvzNfaHp-CxFAAAF]
+5.11.2025, 9:30:23 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:23 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:30:41 - INFO - Server is running on port: 3030
+5.11.2025, 9:30:43 - INFO - New connected socket [id: onJvqrTeuOaBTJJOAAAB]
+5.11.2025, 9:31:20 - INFO - Server is running on port: 3030
+5.11.2025, 9:31:20 - INFO - New connected socket [id: 2BWWnfqmOhRcjbVnAAAB]
+5.11.2025, 9:31:21 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:31:21 - INFO - New connected socket [id: tFqlBVWpO9fVYPJgAAAD]
+5.11.2025, 9:31:21 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: tFqlBVWpO9fVYPJgAAAD]
+5.11.2025, 9:31:22 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:22 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:30 - INFO - /api/board | POST | {"title":"New Board","privacy":"main","managingType":"item","isStarred":false,"createdAt":1762327890920,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"P8mvkN","title":"Group 1","createdAt":1762327890920,"isCollapsed":false,"tasks":[{"id":"s9xEZf","title":"Item 1","createdAt":1762327890920,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"aeLTEo","title":"Item 2","createdAt":1762327890920,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#c8b649"}}],"activities":[]} | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:31 - INFO - Broadcasting event: event-add-board | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:31 - INFO - Broadcast to all excluding user: 68fe62e984b5fa7140477e79 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:31 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:31 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:31 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:48 - INFO - Server is running on port: 3030
+5.11.2025, 9:31:49 - INFO - New connected socket [id: inshv1EuQxrk7flkAAAB]
+5.11.2025, 9:31:50 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:31:50 - INFO - New connected socket [id: ekawhaAcvNRmR6O3AAAD]
+5.11.2025, 9:31:50 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: ekawhaAcvNRmR6O3AAAD]
+5.11.2025, 9:31:50 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:50 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - ERROR - while finding board 690afd52b6d5ce2702169357 | TypeError: Cannot read properties of null (reading '_id') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - ERROR - Failed to get board | TypeError: Cannot read properties of null (reading '_id') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - ERROR - while finding board 690afd52b6d5ce2702169357 | TypeError: Cannot read properties of null (reading '_id') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - ERROR - Failed to get board | TypeError: Cannot read properties of null (reading '_id') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - ERROR - while finding board 690afd52b6d5ce2702169357 | TypeError: Cannot read properties of null (reading '_id') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:31:52 - ERROR - Failed to get board | TypeError: Cannot read properties of null (reading '_id') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:32:01 - INFO - Server is running on port: 3030
+5.11.2025, 9:32:02 - INFO - New connected socket [id: b3nv-g4YTW0eWcaBAAAB]
+5.11.2025, 9:32:12 - INFO - Server is running on port: 3030
+5.11.2025, 9:32:13 - INFO - New connected socket [id: TnD2EhfMjqefT4hYAAAB]
+5.11.2025, 9:32:52 - INFO - Server is running on port: 3030
+5.11.2025, 9:32:57 - INFO - New connected socket [id: -xe8AbSgvjPg6AThAAAB]
+5.11.2025, 9:33:04 - INFO - Server is running on port: 3030
+5.11.2025, 9:33:05 - INFO - New connected socket [id: DlDaCBgUzRpxsN5rAAAB]
+5.11.2025, 9:33:45 - INFO - Server is running on port: 3030
+5.11.2025, 9:33:46 - INFO - New connected socket [id: rEPmyf7iV5Lju-VdAAAB]
+5.11.2025, 9:34:58 - INFO - Server is running on port: 3030
+5.11.2025, 9:35:00 - INFO - New connected socket [id: CpwLgUjDneMdquqUAAAB]
+5.11.2025, 9:35:39 - INFO - Server is running on port: 3030
+5.11.2025, 9:35:40 - INFO - New connected socket [id: pSvhcz9cBO5FWRIqAAAB]
+5.11.2025, 9:35:43 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:43 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:43 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:43 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:43 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:35:44 - INFO - New connected socket [id: Gj4WqsX51XXqBxdbAAAD]
+5.11.2025, 9:35:44 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: Gj4WqsX51XXqBxdbAAAD]
+5.11.2025, 9:35:44 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:44 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 68fe62e984b5fa7140477e79
+5.11.2025, 9:35:54 - INFO - Server is running on port: 3030
+5.11.2025, 9:35:55 - INFO - New connected socket [id: mqObtJHO78yvKfmdAAAB]
+5.11.2025, 9:36:38 - INFO - Server is running on port: 3030
+5.11.2025, 9:36:39 - INFO - New connected socket [id: QxeuRjT2M8ArZMNFAAAB]
+5.11.2025, 9:36:46 - INFO - Server is running on port: 3030
+5.11.2025, 9:36:47 - INFO - New connected socket [id: HQzNwndZ6HXFSj2gAAAB]
+5.11.2025, 9:36:48 - INFO - Server is running on port: 3030
+5.11.2025, 9:36:49 - INFO - New connected socket [id: r-fxlru6oarlf8imAAAB]
+5.11.2025, 9:36:50 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:36:50 - INFO - New connected socket [id: 6g7cbtsuHyF88HrAAAAD]
+5.11.2025, 9:36:50 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 6g7cbtsuHyF88HrAAAAD]
+5.11.2025, 9:36:50 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:36:50 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:37:16 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:37:16 - INFO - New connected socket [id: PjnzDGDEO6Zf8h-vAAAF]
+5.11.2025, 9:37:16 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: PjnzDGDEO6Zf8h-vAAAF]
+5.11.2025, 9:37:16 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:37:16 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:37:48 - INFO - Server is running on port: 3030
+5.11.2025, 9:37:48 - INFO - New connected socket [id: _x8KCZ7qTC4o0A9PAAAB]
+5.11.2025, 9:38:17 - INFO - Server is running on port: 3030
+5.11.2025, 9:38:18 - INFO - New connected socket [id: ymVsmVVTz3bX_W7aAAAB]
+5.11.2025, 9:38:20 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:38:21 - INFO - New connected socket [id: A8JK3Uj1Qgbn2KF5AAAD]
+5.11.2025, 9:38:21 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: A8JK3Uj1Qgbn2KF5AAAD]
+5.11.2025, 9:38:21 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:38:21 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:38:45 - INFO - Server is running on port: 3030
+5.11.2025, 9:38:46 - INFO - New connected socket [id: HVJHWuXvXh2IIMHrAAAB]
+5.11.2025, 9:38:52 - INFO - Server is running on port: 3030
+5.11.2025, 9:38:53 - INFO - New connected socket [id: 1kUp10sfiIWoe3PaAAAB]
+5.11.2025, 9:38:58 - INFO - Server is running on port: 3030
+5.11.2025, 9:39:00 - INFO - New connected socket [id: MtE6zZW2kEqbMVhmAAAB]
+5.11.2025, 9:39:38 - INFO - Server is running on port: 3030
+5.11.2025, 9:39:39 - INFO - New connected socket [id: vUzPh5hpR6ZwiwHHAAAB]
+5.11.2025, 9:39:56 - INFO - Server is running on port: 3030
+5.11.2025, 9:39:57 - INFO - New connected socket [id: b9gJWfr3S58lYvO0AAAB]
+5.11.2025, 9:39:59 - INFO - Server is running on port: 3030
+5.11.2025, 9:40:00 - INFO - New connected socket [id: mrcOSHHJukUqeA29AAAB]
+5.11.2025, 9:42:47 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:42:48 - INFO - New connected socket [id: 0suH8z05c4xrZjxYAAAE]
+5.11.2025, 9:42:48 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: 0suH8z05c4xrZjxYAAAE]
+5.11.2025, 9:43:30 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:43:30 - INFO - New connected socket [id: R9v-eQcd4eCVLIowAAAG]
+5.11.2025, 9:43:30 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: R9v-eQcd4eCVLIowAAAG]
+5.11.2025, 9:46:01 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:46:01 - INFO - New connected socket [id: ehIKxobNi1aQj8bKAAAI]
+5.11.2025, 9:46:02 - INFO - New connected socket [id: vatThfkkWgyemQ_TAAAK]
+5.11.2025, 9:46:02 - INFO - Setting socket.userId = 68fe62e984b5fa7140477e79 for socket [id: vatThfkkWgyemQ_TAAAK]
+5.11.2025, 9:46:02 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:46:02 - INFO - /api/board | GET |  | {} | 68fe62e984b5fa7140477e79
+5.11.2025, 9:46:09 - INFO - Removing socket.userId for socket [id: vatThfkkWgyemQ_TAAAK]
+5.11.2025, 9:46:24 - DEBUG - auth.service - login with username: ckem92 | 68fe62e984b5fa7140477e79
+5.11.2025, 9:46:24 - ERROR - Failed to Login Invalid username or password | 68fe62e984b5fa7140477e79
+5.11.2025, 9:46:24 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:46:24 - INFO - New connected socket [id: OgxpROY-PD128eecAAAM]
+5.11.2025, 9:46:46 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:48:45 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 9:48:45 - INFO - New connected socket [id: h-H69BGeGld8Z7REAAAO]
+5.11.2025, 9:50:42 - INFO - Server is running on port: 3030
+5.11.2025, 9:50:43 - INFO - New connected socket [id: hXzcm5zJvDzDz6RlAAAB]
+5.11.2025, 9:51:13 - INFO - Server is running on port: 3030
+5.11.2025, 9:51:14 - INFO - New connected socket [id: EBp-FelkXwoYvs4qAAAB]

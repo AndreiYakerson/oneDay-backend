@@ -35,11 +35,14 @@ export const boardService = {
 }
 
 async function query(filterBy = { txt: '' }) {
+    
     try {
         // const criteria = _buildCriteria(filterBy)
         // const sort = _buildSort(filterBy)
 
+
         const collection = await dbService.getCollection('board')
+        
         const miniBoards = await collection.find({}, { projection: { _id: 1, title: 1, isStarred: 1 } })
         const boards = await miniBoards.toArray()
         return boards

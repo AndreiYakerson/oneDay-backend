@@ -8,8 +8,10 @@ export const dbService = { getCollection }
 var dbConn = null
 
 async function getCollection(collectionName) {
+    
     try {
         const db = await _connect()
+        
         const collection = await db.collection(collectionName)
         return collection
     } catch (err) {
@@ -20,7 +22,7 @@ async function getCollection(collectionName) {
 
 async function _connect() {
     if (dbConn) return dbConn
-
+    
     try {
         const client = await MongoClient.connect(config.dbURL)
         return dbConn = client.db(config.dbName)
