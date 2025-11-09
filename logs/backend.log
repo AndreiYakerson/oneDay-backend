@@ -15843,3 +15843,20 @@
 9.11.2025, 11:44:34 - INFO - New connected socket [id: DDPDCn4eEkbCXQ27AAAB]
 9.11.2025, 11:44:35 - INFO - Server is running on port: 3030
 9.11.2025, 11:44:36 - INFO - New connected socket [id: akYXWGfuv_-dgFjYAAAB]
+9.11.2025, 11:49:52 - INFO - Socket disconnected [id: undefined]
+9.11.2025, 11:49:52 - INFO - New connected socket [id: GWBcuaJv5EnKi5vgAAAD]
+9.11.2025, 11:49:52 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: GWBcuaJv5EnKi5vgAAAD]
+9.11.2025, 11:49:52 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:49:52 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:49:59 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:50:04 - INFO - Socket disconnected [id: undefined]
+9.11.2025, 11:50:05 - INFO - New connected socket [id: Krh9SlHv4xehyoWRAAAF]
+9.11.2025, 11:50:05 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: Krh9SlHv4xehyoWRAAAF]
+9.11.2025, 11:50:05 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:50:05 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:50:11 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:50:14 - INFO - /api/board | GET |  | {"boardId":"690afd52b6d5ce2702169357","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+9.11.2025, 11:53:13 - INFO - Server is running on port: 3030
+9.11.2025, 11:53:14 - INFO - New connected socket [id: 1IjGiApAsxHS8s8PAAAB]
+9.11.2025, 11:53:15 - INFO - Server is running on port: 3030
+9.11.2025, 11:53:16 - INFO - New connected socket [id: YJUZ9U-sry6NeCmbAAAB]
