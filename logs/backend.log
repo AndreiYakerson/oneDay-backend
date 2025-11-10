@@ -20946,3 +20946,7 @@
 10.11.2025, 21:28:59 - INFO - /api/board | GET |  | {"boardId":"69123bf9f40167d508d98e91","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
 10.11.2025, 21:28:59 - INFO - /api/board | GET |  | {"boardId":"69123bf9f40167d508d98e91","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
 10.11.2025, 21:29:38 - INFO - Removing socket.userId for socket [id: OtIaFpUvMg05hqktAAB7]
+10.11.2025, 21:37:54 - INFO - Server is running on port: 3030
+10.11.2025, 21:37:56 - INFO - New connected socket [id: H_pudb8p0kQcGUUVAAAB]
+10.11.2025, 21:37:57 - INFO - Server is running on port: 3030
+10.11.2025, 21:37:58 - INFO - New connected socket [id: LMasplR2pm2OXfcnAAAB]
