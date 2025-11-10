@@ -5,10 +5,11 @@ import { makeId, getRandomGroupColor, getRandomIntInclusive } from '../../servic
 import { socketService } from '../../services/socket.service.js'
 
 export async function getBoards(req, res) {
-    
+        
     try {
         const filterBy = {
             txt: req.query.txt || '',
+            memberId: req.query.memberId || '',
         }
 
         const boards = await boardService.query(filterBy)

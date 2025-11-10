@@ -35,15 +35,15 @@ export const boardService = {
 }
 
 async function query(filterBy = { txt: '' }) {
-    
+
     try {
-        // const criteria = _buildCriteria(filterBy)
+        const criteria = _buildCriteria(filterBy)
         // const sort = _buildSort(filterBy)
 
 
         const collection = await dbService.getCollection('board')
-        
-        const miniBoards = await collection.find({}, { projection: { _id: 1, title: 1, isStarred: 1 } })
+
+        const miniBoards = await collection.find({...criteria}, { projection: { _id: 1, title: 1, isStarred: 1 } })
         const boards = await miniBoards.toArray()
         return boards
     } catch (err) {
@@ -699,8 +699,15 @@ export async function getDashboardData(filterBy = {}) {
 // General function 
 
 function _buildCriteria(filterBy) {
-    const criteria = {
-        title: { $regex: filterBy.txt, $options: 'i' },
+
+    const criteria = {}
+
+    if (filterBy.txt) {
+        criteria.title = { $regex: filterBy.txt, $options: 'i' }
+    }
+
+    if (filterBy.memberId) {
+        criteria.members = { $elemMatch: { _id: filterBy.memberId } };
     }
 
     return criteria
