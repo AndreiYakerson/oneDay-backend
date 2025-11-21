@@ -21635,3 +21635,64 @@
 21.11.2025, 22:09:45 - INFO - New connected socket [id: Ewmwi-apjfV511WyAAAB]
 21.11.2025, 22:09:46 - INFO - Server is running on port: 3030
 21.11.2025, 22:09:47 - INFO - New connected socket [id: C4t5boPDWp5Qb8hJAAAB]
+21.11.2025, 22:13:33 - INFO - Socket disconnected [id: undefined]
+21.11.2025, 22:13:35 - INFO - New connected socket [id: RFwT8Wq-u_XpZ9NZAAAD]
+21.11.2025, 22:14:39 - INFO - Removing socket.userId for socket [id: RFwT8Wq-u_XpZ9NZAAAD]
+21.11.2025, 22:14:44 - INFO - Socket disconnected [id: undefined]
+21.11.2025, 22:14:56 - INFO - New connected socket [id: CoPU89BaAQl82nazAAAF]
+21.11.2025, 22:15:06 - DEBUG - auth.service - login with username: Anna85 | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:15:06 - INFO - User login:  | {"_id":"690f9fe49e98d9b906660e53","username":"Anna85","fullname":"Anna Yakerson","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":false,"profession":null} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:15:06 - INFO - Setting socket.userId = 690f9fe49e98d9b906660e53 for socket [id: CoPU89BaAQl82nazAAAF]
+21.11.2025, 22:15:06 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:06 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:06 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:14 - INFO - Removing socket.userId for socket [id: CoPU89BaAQl82nazAAAF]
+21.11.2025, 22:15:22 - DEBUG - auth.service - login with username: Anna85 | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:22 - INFO - User login:  | {"_id":"690f9fe49e98d9b906660e53","username":"Anna85","fullname":"Anna Yakerson","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":false,"profession":null} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:22 - INFO - Setting socket.userId = 690f9fe49e98d9b906660e53 for socket [id: CoPU89BaAQl82nazAAAF]
+21.11.2025, 22:15:22 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:22 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:15:22 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:19 - INFO - Socket disconnected [id: undefined]
+21.11.2025, 22:17:19 - INFO - New connected socket [id: uewSky5z7Kf85sXcAAAH]
+21.11.2025, 22:17:19 - INFO - Setting socket.userId = 690f9fe49e98d9b906660e53 for socket [id: uewSky5z7Kf85sXcAAAH]
+21.11.2025, 22:17:19 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:19 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:19 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:22 - INFO - /api/board | GET |  | {"boardId":"69123bf9f40167d508d98e91","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:22 - INFO - /api/board | GET |  | {"boardId":"69123bf9f40167d508d98e91","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:22 - INFO - /api/board | GET |  | {"boardId":"69123bf9f40167d508d98e91","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:23 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:17:23 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:18:05 - INFO - Socket disconnected [id: undefined]
+21.11.2025, 22:18:05 - INFO - New connected socket [id: 9hg0MWROyHu3pSH9AAAJ]
+21.11.2025, 22:18:05 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:18:05 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:18:05 - INFO - Setting socket.userId = 690f9fe49e98d9b906660e53 for socket [id: 9hg0MWROyHu3pSH9AAAJ]
+21.11.2025, 22:18:05 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:22:32 - INFO - Socket disconnected [id: undefined]
+21.11.2025, 22:22:32 - INFO - New connected socket [id: 8bXxjCriS70KruGGAAAL]
+21.11.2025, 22:22:32 - INFO - Setting socket.userId = 690f9fe49e98d9b906660e53 for socket [id: 8bXxjCriS70KruGGAAAL]
+21.11.2025, 22:22:32 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:22:32 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:22:32 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:22:39 - INFO - Removing socket.userId for socket [id: 8bXxjCriS70KruGGAAAL]
+21.11.2025, 22:22:44 - DEBUG - auth.service - login with username: Admin | 690f9fe49e98d9b906660e53
+21.11.2025, 22:22:44 - INFO - User login:  | {"_id":"69104ac579ff180c8ba3f322","username":"Admin","fullname":"Andrei Admin","imgUrl":"https://res.cloudinary.com/dauvuuhdv/image/upload/v1762675391/akhwalmr7eulu0aysnnx.jpg","isAdmin":false,"profession":"Admin"} | 690f9fe49e98d9b906660e53
+21.11.2025, 22:22:44 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: 8bXxjCriS70KruGGAAAL]
+21.11.2025, 22:22:44 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+21.11.2025, 22:22:44 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+21.11.2025, 22:22:44 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+21.11.2025, 22:22:47 - INFO - Removing socket.userId for socket [id: 8bXxjCriS70KruGGAAAL]
+21.11.2025, 22:22:52 - DEBUG - auth.service - login with username: ckem92 | 69104ac579ff180c8ba3f322
+21.11.2025, 22:22:52 - INFO - User login:  | {"_id":"690b0bca16b67718ea1c98ad","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/dauvuuhdv/image/upload/v1762331566/qhcgwm6qjbaro0jp8qzj.jpg","isAdmin":true,"profession":"dev"} | 69104ac579ff180c8ba3f322
+21.11.2025, 22:22:52 - INFO - Setting socket.userId = 690b0bca16b67718ea1c98ad for socket [id: 8bXxjCriS70KruGGAAAL]
+21.11.2025, 22:22:52 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:22:52 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:22:52 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:00 - INFO - Server is running on port: 3030
+21.11.2025, 22:24:01 - INFO - New connected socket [id: z-uchDKZXrChxUTCAAAB]
+21.11.2025, 22:24:04 - INFO - Server is running on port: 3030
+21.11.2025, 22:24:05 - INFO - New connected socket [id: VSb3gr52DD48kqGyAAAB]
+21.11.2025, 22:24:06 - INFO - Server is running on port: 3030
+21.11.2025, 22:24:06 - INFO - New connected socket [id: -7LXXMJ_kATBiDGeAAAB]
