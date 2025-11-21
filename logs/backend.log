@@ -21696,3 +21696,26 @@
 21.11.2025, 22:24:05 - INFO - New connected socket [id: VSb3gr52DD48kqGyAAAB]
 21.11.2025, 22:24:06 - INFO - Server is running on port: 3030
 21.11.2025, 22:24:06 - INFO - New connected socket [id: -7LXXMJ_kATBiDGeAAAB]
+21.11.2025, 22:24:25 - INFO - /api/board | GET |  | {"boardId":"691254c9afba98006a87d0f8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:26 - INFO - /api/board | GET |  | {"boardId":"691254c9afba98006a87d0f8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:26 - INFO - /api/board | GET |  | {"boardId":"691254c9afba98006a87d0f8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:26 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:27 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:48 - INFO - Socket disconnected [id: undefined]
+21.11.2025, 22:24:53 - INFO - New connected socket [id: 4LwFYNlsHgRH6nb6AAAD]
+21.11.2025, 22:24:53 - INFO - Setting socket.userId = 690b0bca16b67718ea1c98ad for socket [id: 4LwFYNlsHgRH6nb6AAAD]
+21.11.2025, 22:24:53 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:53 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:24:53 - INFO - /api/board | GET |  | {} | 690b0bca16b67718ea1c98ad
+21.11.2025, 22:25:48 - INFO - Server is running on port: 3030
+21.11.2025, 22:25:49 - INFO - New connected socket [id: B7SZEU3R6DOIQ5UoAAAB]
+21.11.2025, 22:25:51 - INFO - Server is running on port: 3030
+21.11.2025, 22:25:53 - INFO - New connected socket [id: acLMEvYLgt4CDi8FAAAB]
+21.11.2025, 22:25:53 - INFO - Server is running on port: 3030
+21.11.2025, 22:25:54 - INFO - New connected socket [id: wBFrKOUaRD6H6m-8AAAB]
+21.11.2025, 22:26:37 - INFO - Server is running on port: 3030
+21.11.2025, 22:26:38 - INFO - New connected socket [id: xhfskpOuQt123OH4AAAB]
+21.11.2025, 22:27:15 - INFO - Server is running on port: 3030
+21.11.2025, 22:27:16 - INFO - New connected socket [id: ymrufxiQB5I9r3kDAAAB]
+21.11.2025, 22:27:18 - INFO - Server is running on port: 3030
+21.11.2025, 22:27:18 - INFO - New connected socket [id: qUNrr1U1h8T9w-i0AAAB]
