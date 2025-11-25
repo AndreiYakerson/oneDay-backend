@@ -21723,3 +21723,125 @@
 24.11.2025, 23:32:10 - INFO - New connected socket [id: KvaaS0MJVQ4ov-vVAAAB]
 24.11.2025, 23:32:14 - INFO - Server is running on port: 3030
 24.11.2025, 23:32:16 - INFO - New connected socket [id: 4sOl0zq1ei9AjFf0AAAB]
+25.11.2025, 10:14:27 - INFO - Server is running on port: 3030
+25.11.2025, 10:14:29 - INFO - New connected socket [id: 0UjkjeUOTIK90PaMAAAB]
+25.11.2025, 10:14:29 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: 0UjkjeUOTIK90PaMAAAB]
+25.11.2025, 10:15:32 - INFO - Socket disconnected [id: undefined]
+25.11.2025, 10:15:32 - INFO - New connected socket [id: L97e1mUB74IEabtqAAAD]
+25.11.2025, 10:15:32 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: L97e1mUB74IEabtqAAAD]
+25.11.2025, 10:15:32 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:15:32 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:15:35 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:09 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:09 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:12 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:12 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:19 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:19 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:22 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:22 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:33 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:33 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:41 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:42 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:45 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:45 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:48 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:18:48 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:40 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:40 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:45 - INFO - Socket disconnected [id: undefined]
+25.11.2025, 10:19:45 - INFO - New connected socket [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:19:45 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:19:45 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:45 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:46 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:54 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:54 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:58 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:19:58 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:15 - INFO - /api/board | POST | {"title":"New Board 1","privacy":"main","managingType":"item","isStarred":false,"createdAt":1764058815747,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"i3DPo5","title":"Group 1","createdAt":1764058815747,"isCollapsed":false,"tasks":[{"id":"gfKftO","title":"Item 1","createdAt":1764058815747,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"Xkwan1","title":"Item 2","createdAt":1764058815747,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#fa0080"}}],"activities":[]} | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:15 - INFO - Broadcasting event: event-add-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:15 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:15 - INFO - /api/board | GET |  | {"boardId":"692566bf0180d98e80b84041","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:16 - INFO - /api/board | GET |  | {"boardId":"692566bf0180d98e80b84041","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:16 - INFO - /api/board | GET |  | {"boardId":"692566bf0180d98e80b84041","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:17 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:17 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:22 - INFO - /api/board | POST | {"title":"New Board 2","privacy":"main","managingType":"item","isStarred":false,"createdAt":1764058822795,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"xKTUnp","title":"Group 1","createdAt":1764058822795,"isCollapsed":false,"tasks":[{"id":"M0nvsp","title":"Item 1","createdAt":1764058822795,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"WyPdGH","title":"Item 2","createdAt":1764058822795,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#5f9bf9"}}],"activities":[]} | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:22 - INFO - Broadcasting event: event-add-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:22 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:23 - INFO - /api/board | GET |  | {"boardId":"692566c60180d98e80b84042","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:23 - INFO - Socket is leaving topic 692566bf0180d98e80b84041 [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:20:23 - INFO - /api/board | GET |  | {"boardId":"692566c60180d98e80b84042","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:23 - INFO - /api/board | GET |  | {"boardId":"692566c60180d98e80b84042","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:24 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:24 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:28 - INFO - /api/board | POST | {"title":"New Board 3","privacy":"main","managingType":"item","isStarred":false,"createdAt":1764058828887,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"sfXKLK","title":"Group 1","createdAt":1764058828887,"isCollapsed":false,"tasks":[{"id":"Keoakc","title":"Item 1","createdAt":1764058828887,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"6Ttwjv","title":"Item 2","createdAt":1764058828887,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#1e7eb3"}}],"activities":[]} | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:29 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:29 - INFO - Broadcasting event: event-add-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:29 - INFO - /api/board | GET |  | {"boardId":"692566cc0180d98e80b84043","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:29 - INFO - Socket is leaving topic 692566c60180d98e80b84042 [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:20:29 - INFO - /api/board | GET |  | {"boardId":"692566cc0180d98e80b84043","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:29 - INFO - /api/board | GET |  | {"boardId":"692566cc0180d98e80b84043","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:30 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:30 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:38 - INFO - /api/board | POST | {"title":"New Board 4","privacy":"main","managingType":"item","isStarred":false,"createdAt":1764058838464,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"CRKOcQ","title":"Group 1","createdAt":1764058838464,"isCollapsed":false,"tasks":[{"id":"JUl6ql","title":"Item 1","createdAt":1764058838464,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"VERUi6","title":"Item 2","createdAt":1764058838464,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#17804d"}}],"activities":[]} | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:38 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:38 - INFO - Broadcasting event: event-add-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:38 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:38 - INFO - Socket is leaving topic 692566cc0180d98e80b84043 [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:20:38 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:38 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:40 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:40 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:47 - INFO - /api/board | POST | {"title":"New Board 5","privacy":"main","managingType":"item","isStarred":false,"createdAt":1764058847303,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"9rnNio","title":"Group 1","createdAt":1764058847303,"isCollapsed":false,"tasks":[{"id":"IKdMeZ","title":"Item 1","createdAt":1764058847303,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"LB4ZlI","title":"Item 2","createdAt":1764058847303,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#fccb29"}}],"activities":[]} | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:47 - INFO - Broadcasting event: event-add-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:47 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:47 - INFO - /api/board | GET |  | {"boardId":"692566df0180d98e80b84045","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:47 - INFO - Socket is leaving topic 692566d60180d98e80b84044 [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:20:47 - INFO - /api/board | GET |  | {"boardId":"692566df0180d98e80b84045","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:47 - INFO - /api/board | GET |  | {"boardId":"692566df0180d98e80b84045","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:49 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:20:49 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:02 - INFO - /api/board | POST | {"title":"New Board 6","privacy":"main","managingType":"item","isStarred":false,"createdAt":1764058862085,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"rXyZhv","title":"Group 1","createdAt":1764058862085,"isCollapsed":false,"tasks":[{"id":"RHhLNr","title":"Item 1","createdAt":1764058862085,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"tM5rlB","title":"Item 2","createdAt":1764058862085,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#fa6237"}}],"activities":[]} | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:02 - INFO - Broadcasting event: event-add-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:02 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:02 - INFO - /api/board | GET |  | {"boardId":"692566ee0180d98e80b84046","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:02 - INFO - Socket is leaving topic 692566df0180d98e80b84045 [id: 5oEu9UUcgPWDULc3AAAF]
+25.11.2025, 10:21:02 - INFO - /api/board | GET |  | {"boardId":"692566ee0180d98e80b84046","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:02 - INFO - /api/board | GET |  | {"boardId":"692566ee0180d98e80b84046","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:03 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:03 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:12 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:12 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:20 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:21:20 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:23:16 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:23:16 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:23:17 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:23:17 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:23:20 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:23:20 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:49 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:49 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:50 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:50 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:51 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:51 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:52 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:52 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:56 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:56 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:58 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:33:58 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:34:00 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:34:00 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:35:23 - INFO - Server is running on port: 3030
+25.11.2025, 10:35:24 - INFO - New connected socket [id: nXCGd6HISbTgsNVOAAAB]
+25.11.2025, 10:35:24 - INFO - Server is running on port: 3030
+25.11.2025, 10:35:26 - INFO - New connected socket [id: Fy6uA3k6s-ktCwpxAAAB]
