@@ -43,7 +43,7 @@ async function query(filterBy = { txt: '' }) {
 
         const collection = await dbService.getCollection('board')
 
-        const miniBoards = await collection.find({...criteria}, { projection: { _id: 1, title: 1, isStarred: 1 } })
+        const miniBoards = await collection.find({...criteria}, { projection: { _id: 1, title: 1, isStarred: 1, owner: 1 } })
         const boards = await miniBoards.toArray()
         return boards
     } catch (err) {
