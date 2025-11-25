@@ -21860,3 +21860,17 @@
 25.11.2025, 10:51:39 - INFO - New connected socket [id: 3DtYvX3RJsnOhi7IAAAB]
 25.11.2025, 10:51:39 - INFO - Server is running on port: 3030
 25.11.2025, 10:51:41 - INFO - New connected socket [id: GTZx2nR-uo7-Mz6_AAAB]
+25.11.2025, 10:56:49 - INFO - Socket disconnected [id: undefined]
+25.11.2025, 10:56:49 - INFO - New connected socket [id: Agv87hauT5c0NYxUAAAD]
+25.11.2025, 10:56:49 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: Agv87hauT5c0NYxUAAAD]
+25.11.2025, 10:56:49 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:56:49 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:56:52 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:57:28 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+25.11.2025, 10:57:28 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+25.11.2025, 10:59:25 - INFO - Server is running on port: 3030
+25.11.2025, 10:59:27 - INFO - New connected socket [id: UwJ-71vzTIZu436QAAAB]
+25.11.2025, 10:59:27 - INFO - Server is running on port: 3030
+25.11.2025, 10:59:29 - INFO - New connected socket [id: uLrO3CGud_ULG0DAAAAB]
+25.11.2025, 10:59:30 - INFO - Server is running on port: 3030
+25.11.2025, 10:59:31 - INFO - New connected socket [id: IlrypW9VedgK568QAAAB]
