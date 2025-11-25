@@ -22024,3 +22024,9 @@
 25.11.2025, 15:26:42 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
 25.11.2025, 15:29:32 - INFO - Socket disconnected [id: undefined]
 25.11.2025, 15:29:34 - INFO - New connected socket [id: rKp30Maoa36aybL5AAAL]
+25.11.2025, 15:32:09 - INFO - Server is running on port: 3030
+25.11.2025, 15:32:11 - INFO - New connected socket [id: boWTO06tMP20NH3ZAAAB]
+25.11.2025, 15:32:12 - INFO - Server is running on port: 3030
+25.11.2025, 15:32:14 - INFO - New connected socket [id: D4_mfGXlejSKwsTdAAAB]
+25.11.2025, 15:32:15 - INFO - Server is running on port: 3030
+25.11.2025, 15:32:16 - INFO - New connected socket [id: 4695LqColPnIuqktAAAB]
