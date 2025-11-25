@@ -21845,3 +21845,18 @@
 25.11.2025, 10:35:24 - INFO - New connected socket [id: nXCGd6HISbTgsNVOAAAB]
 25.11.2025, 10:35:24 - INFO - Server is running on port: 3030
 25.11.2025, 10:35:26 - INFO - New connected socket [id: Fy6uA3k6s-ktCwpxAAAB]
+25.11.2025, 10:40:00 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:40:01 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:40:01 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:40:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:40:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:40:50 - INFO - Socket disconnected [id: undefined]
+25.11.2025, 10:41:02 - INFO - New connected socket [id: HTjAd7vpiXyzTXp_AAAD]
+25.11.2025, 10:41:02 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: HTjAd7vpiXyzTXp_AAAD]
+25.11.2025, 10:41:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:41:02 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:41:03 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+25.11.2025, 10:51:37 - INFO - Server is running on port: 3030
+25.11.2025, 10:51:39 - INFO - New connected socket [id: 3DtYvX3RJsnOhi7IAAAB]
+25.11.2025, 10:51:39 - INFO - Server is running on port: 3030
+25.11.2025, 10:51:41 - INFO - New connected socket [id: GTZx2nR-uo7-Mz6_AAAB]
