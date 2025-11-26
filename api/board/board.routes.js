@@ -1,6 +1,6 @@
 import express from 'express'
 
-import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
+import { requireAuth, requireOwner } from '../../middlewares/requireAuth.middleware.js'
 import { log } from '../../middlewares/logger.middleware.js'
 
 import {
@@ -23,7 +23,7 @@ router.get('/', log, getBoards)
 router.get('/dashboard', log, getDashboardData)
 router.get('/:boardId/:filterByStr', log, getBoardById)
 router.post('/', log, requireAuth, addBoard)
-router.put('/', requireAuth, updateBoard)
+router.put('/', requireAuth, requireOwner, updateBoard)
 router.delete('/:id', requireAuth, removeBoard)
 
 // group

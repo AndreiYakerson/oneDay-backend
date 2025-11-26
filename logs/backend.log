@@ -22030,3 +22030,215 @@
 25.11.2025, 15:32:14 - INFO - New connected socket [id: D4_mfGXlejSKwsTdAAAB]
 25.11.2025, 15:32:15 - INFO - Server is running on port: 3030
 25.11.2025, 15:32:16 - INFO - New connected socket [id: 4695LqColPnIuqktAAAB]
+26.11.2025, 20:37:51 - INFO - Server is running on port: 3030
+26.11.2025, 20:38:02 - INFO - New connected socket [id: 4riejeqW23UxeUQ4AAAB]
+26.11.2025, 20:38:03 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: 4riejeqW23UxeUQ4AAAB]
+26.11.2025, 20:38:03 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:38:03 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:38:04 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:38:04 - INFO - /api/board | GET |  | {"boardId":"692566d60180d98e80b84044","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:38:28 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:38:28 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:39:17 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 20:39:17 - INFO - New connected socket [id: uZW3N-vmMJtzfWFwAAAD]
+26.11.2025, 20:39:17 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: uZW3N-vmMJtzfWFwAAAD]
+26.11.2025, 20:39:17 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:39:17 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:39:17 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:46:16 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:46:18 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:46:18 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:46:19 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:46:21 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:46:21 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:47:26 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 20:47:26 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 20:47:32 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 20:47:32 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:02 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:02 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:02 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:44 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:44 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:59 - INFO - Socket is leaving topic 69214cf61c2180f0a91a4d3d [id: uZW3N-vmMJtzfWFwAAAD]
+26.11.2025, 20:49:59 - INFO - /api/board | GET |  | {"boardId":"692566bf0180d98e80b84041","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:49:59 - INFO - /api/board | GET |  | {"boardId":"692566bf0180d98e80b84041","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:50:00 - INFO - /api/board | GET |  | {"boardId":"692566bf0180d98e80b84041","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:50:29 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 20:50:29 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 20:58:41 - INFO - Server is running on port: 3030
+26.11.2025, 20:58:43 - INFO - New connected socket [id: F_J75HyuxsHh-2DwAAAB]
+26.11.2025, 20:58:50 - INFO - Server is running on port: 3030
+26.11.2025, 20:58:51 - INFO - New connected socket [id: fTzfctOUmZS-1fJPAAAB]
+26.11.2025, 20:59:36 - INFO - Server is running on port: 3030
+26.11.2025, 20:59:38 - INFO - New connected socket [id: L1aVRKAj8ONiQBOGAAAB]
+26.11.2025, 20:59:44 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 20:59:48 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:00:15 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:00:15 - INFO - New connected socket [id: sBFocb-icyPBr39zAAAD]
+26.11.2025, 21:00:15 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: sBFocb-icyPBr39zAAAD]
+26.11.2025, 21:00:15 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:00:15 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:00:16 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:01:13 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:01:13 - INFO - New connected socket [id: P-N4ActH_DJCE9k_AAAF]
+26.11.2025, 21:01:13 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: P-N4ActH_DJCE9k_AAAF]
+26.11.2025, 21:01:13 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:01:13 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:01:13 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:02:55 - INFO - Server is running on port: 3030
+26.11.2025, 21:02:57 - INFO - New connected socket [id: jgbc-o47Zsedzu8LAAAB]
+26.11.2025, 21:02:59 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:02:59 - INFO - New connected socket [id: x_W9P0vqGBvkkDDAAAAD]
+26.11.2025, 21:02:59 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: x_W9P0vqGBvkkDDAAAAD]
+26.11.2025, 21:02:59 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:02:59 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:03:03 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:03:35 - INFO - Server is running on port: 3030
+26.11.2025, 21:03:36 - INFO - New connected socket [id: ApOfLtX35tJdw7GXAAAB]
+26.11.2025, 21:03:37 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:03:37 - INFO - New connected socket [id: Jqex6qctIrxdlo4IAAAD]
+26.11.2025, 21:03:37 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: Jqex6qctIrxdlo4IAAAD]
+26.11.2025, 21:03:37 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:03:37 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:03:41 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:04:09 - INFO - Server is running on port: 3030
+26.11.2025, 21:04:10 - INFO - New connected socket [id: eib8g4ErxRiFpEtpAAAB]
+26.11.2025, 21:04:11 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:04:11 - INFO - New connected socket [id: BMISZVPWemTZ7hP0AAAD]
+26.11.2025, 21:04:11 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: BMISZVPWemTZ7hP0AAAD]
+26.11.2025, 21:04:11 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:04:11 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:04:12 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:06:22 - INFO - Server is running on port: 3030
+26.11.2025, 21:06:23 - INFO - New connected socket [id: DiKWWuPdJuc0hnuUAAAB]
+26.11.2025, 21:06:26 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:06:26 - INFO - New connected socket [id: is4hbxGhWd8ZAUYmAAAD]
+26.11.2025, 21:06:26 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: is4hbxGhWd8ZAUYmAAAD]
+26.11.2025, 21:06:26 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:06:26 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:06:28 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:08:01 - INFO - Server is running on port: 3030
+26.11.2025, 21:08:02 - INFO - New connected socket [id: Sy6NORtk9Aob_XUkAAAB]
+26.11.2025, 21:08:06 - INFO - Server is running on port: 3030
+26.11.2025, 21:08:08 - INFO - New connected socket [id: wCRnuk8hgENeimkQAAAB]
+26.11.2025, 21:11:03 - INFO - Server is running on port: 3030
+26.11.2025, 21:11:04 - INFO - New connected socket [id: 9v09fwKNX7BjI7XtAAAB]
+26.11.2025, 21:11:05 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:11:05 - INFO - New connected socket [id: FZdEJgXkjh4n3d02AAAD]
+26.11.2025, 21:11:05 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: FZdEJgXkjh4n3d02AAAD]
+26.11.2025, 21:11:05 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:11:05 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:11:09 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:11:15 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 21:11:15 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 21:12:07 - INFO - Server is running on port: 3030
+26.11.2025, 21:12:08 - INFO - New connected socket [id: Z-N4NuCbUtleMPT8AAAB]
+26.11.2025, 21:12:09 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:12:09 - INFO - New connected socket [id: ThLy9W1DiAW-zRMOAAAD]
+26.11.2025, 21:12:09 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: ThLy9W1DiAW-zRMOAAAD]
+26.11.2025, 21:12:09 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:12:09 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:12:12 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:12:16 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 21:12:16 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 21:15:06 - INFO - Server is running on port: 3030
+26.11.2025, 21:15:08 - INFO - New connected socket [id: INf70EJm78L4rFtMAAAB]
+26.11.2025, 21:15:18 - INFO - Server is running on port: 3030
+26.11.2025, 21:15:19 - INFO - New connected socket [id: wwPTSk4KtQhGGOjBAAAB]
+26.11.2025, 21:15:21 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:15:21 - INFO - New connected socket [id: 7BvnwZktUr1ojfpwAAAD]
+26.11.2025, 21:15:21 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: 7BvnwZktUr1ojfpwAAAD]
+26.11.2025, 21:15:21 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:15:21 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:15:23 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:15:28 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 21:15:28 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 21:15:50 - INFO - Server is running on port: 3030
+26.11.2025, 21:15:52 - INFO - New connected socket [id: v9MfVaPI05-RcqkKAAAB]
+26.11.2025, 21:15:55 - INFO - Server is running on port: 3030
+26.11.2025, 21:15:56 - INFO - New connected socket [id: kLcZ4SlQaaS1_cW8AAAB]
+26.11.2025, 21:16:21 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:16:25 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:16:25 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:16:30 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:16:31 - INFO - New connected socket [id: AsZKegAwlKhx5QUHAAAD]
+26.11.2025, 21:17:24 - INFO - Server is running on port: 3030
+26.11.2025, 21:17:25 - INFO - New connected socket [id: MkECpM9gW8OszmgXAAAB]
+26.11.2025, 21:17:32 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:17:32 - INFO - New connected socket [id: dWJzATXIq7WF8HUdAAAD]
+26.11.2025, 21:17:38 - DEBUG - auth.service - login with username: Admin | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:38 - INFO - User login:  | {"_id":"69104ac579ff180c8ba3f322","username":"Admin","fullname":"Andrei Admin","imgUrl":"https://res.cloudinary.com/dauvuuhdv/image/upload/v1762675391/akhwalmr7eulu0aysnnx.jpg","isAdmin":false,"profession":"Admin"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:38 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: dWJzATXIq7WF8HUdAAAD]
+26.11.2025, 21:17:38 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:38 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:38 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:51 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:51 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:17:51 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:18:09 - WARN - Andrei Admin attempted to perform owner action | 69104ac579ff180c8ba3f322
+26.11.2025, 21:18:09 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:18:09 - INFO - New connected socket [id: 0hAjCLocq67jhHwwAAAF]
+26.11.2025, 21:18:30 - INFO - Server is running on port: 3030
+26.11.2025, 21:18:32 - INFO - New connected socket [id: 1hs_bBQ8CuUX1k-_AAAB]
+26.11.2025, 21:18:59 - DEBUG - auth.service - login with username: Admin | 69104ac579ff180c8ba3f322
+26.11.2025, 21:18:59 - INFO - User login:  | {"_id":"69104ac579ff180c8ba3f322","username":"Admin","fullname":"Andrei Admin","imgUrl":"https://res.cloudinary.com/dauvuuhdv/image/upload/v1762675391/akhwalmr7eulu0aysnnx.jpg","isAdmin":false,"profession":"Admin"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:18:59 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: 1hs_bBQ8CuUX1k-_AAAB]
+26.11.2025, 21:18:59 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:18:59 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:19:00 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:19:03 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:19:03 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:19:03 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:23:45 - INFO - Server is running on port: 3030
+26.11.2025, 21:23:47 - INFO - New connected socket [id: QyqmMvFCJP4EJgycAAAB]
+26.11.2025, 21:23:55 - WARN - Andrei Admin attempted to perform owner action | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:02 - WARN - Andrei Admin attempted to perform owner action | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:07 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:24:07 - INFO - New connected socket [id: p2Mjq6gWzR1KZHsuAAAD]
+26.11.2025, 21:24:07 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: p2Mjq6gWzR1KZHsuAAAD]
+26.11.2025, 21:24:07 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:07 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:07 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:07 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:15 - WARN - Andrei Admin attempted to perform owner action | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:18 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:19 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:19 - INFO - Socket is leaving topic 69214d411c2180f0a91a4d3e [id: p2Mjq6gWzR1KZHsuAAAD]
+26.11.2025, 21:24:20 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:20 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:20 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:21 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:21 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:24 - INFO - Socket is leaving topic 69214cf61c2180f0a91a4d3d [id: p2Mjq6gWzR1KZHsuAAAD]
+26.11.2025, 21:24:24 - INFO - /api/board | GET |  | {"boardId":"692566cc0180d98e80b84043","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:25 - INFO - /api/board | GET |  | {"boardId":"692566cc0180d98e80b84043","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:25 - INFO - /api/board | GET |  | {"boardId":"692566cc0180d98e80b84043","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:29 - INFO - Broadcasting event: event-update-board | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:29 - INFO - Broadcast to all excluding user: 69104ac579ff180c8ba3f322 | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:33 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:33 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:51 - INFO - Socket is leaving topic 692566cc0180d98e80b84043 [id: p2Mjq6gWzR1KZHsuAAAD]
+26.11.2025, 21:24:51 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:51 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:24:51 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:25:00 - WARN - Andrei Admin attempted to perform owner action | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:05 - INFO - Socket disconnected [id: undefined]
+26.11.2025, 21:33:05 - INFO - New connected socket [id: ADHNGLh96IoM0jj-AAAF]
+26.11.2025, 21:33:05 - INFO - Setting socket.userId = 69104ac579ff180c8ba3f322 for socket [id: ADHNGLh96IoM0jj-AAAF]
+26.11.2025, 21:33:05 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:05 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:06 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:06 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:19 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:19 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:20 - INFO - Socket is leaving topic 69214d411c2180f0a91a4d3e [id: ADHNGLh96IoM0jj-AAAF]
+26.11.2025, 21:33:20 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:21 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:21 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:26 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:26 - INFO - /api/board | GET |  | {} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:27 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:27 - INFO - Socket is leaving topic 69214cf61c2180f0a91a4d3d [id: ADHNGLh96IoM0jj-AAAF]
+26.11.2025, 21:33:27 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:33:28 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
