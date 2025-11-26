@@ -25,3 +25,17 @@ export function requireAdmin(req, res, next) {
     }
     next()
 }
+
+export function requireOwner(req, res, next) {
+    const { loggedinUser } = asyncLocalStorage.getStore()
+    const { body: board } = req
+
+    if (!loggedinUser || !board) return res.status(401).send('Not Authenticated')
+
+    if (loggedinUser._id !== board.owner._id) {
+        logger.warn(loggedinUser.fullname + ' attempted to perform owner action')
+        return res.status(403).send('Not your board')
+    }
+
+    next()
+}
