@@ -22242,3 +22242,7 @@
 26.11.2025, 21:33:27 - INFO - Socket is leaving topic 69214cf61c2180f0a91a4d3d [id: ADHNGLh96IoM0jj-AAAF]
 26.11.2025, 21:33:27 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
 26.11.2025, 21:33:28 - INFO - /api/board | GET |  | {"boardId":"69214d411c2180f0a91a4d3e","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 69104ac579ff180c8ba3f322
+26.11.2025, 21:38:14 - INFO - Server is running on port: 3030
+26.11.2025, 21:38:16 - INFO - New connected socket [id: lHcBfrUwuJ6OVsmKAAAB]
+26.11.2025, 21:38:16 - INFO - Server is running on port: 3030
+26.11.2025, 21:38:18 - INFO - New connected socket [id: nsAOM11C0bXRx59cAAAB]
