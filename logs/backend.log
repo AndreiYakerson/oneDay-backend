@@ -22415,3 +22415,168 @@
 30.11.2025, 11:53:39 - INFO - New connected socket [id: 71o-CY9j8pUs6P_bAAAB]
 30.11.2025, 11:53:39 - INFO - Server is running on port: 3030
 30.11.2025, 11:53:41 - INFO - New connected socket [id: xGCGhkV2fa_plx7LAAAB]
+6.12.2025, 20:17:12 - INFO - Server is running on port: 3030
+6.12.2025, 20:17:13 - INFO - New connected socket [id: XdTPITOmxTXVAm_LAAAB]
+6.12.2025, 20:17:14 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:17:14 - INFO - New connected socket [id: ck6fEQ8ZYb4NHRMgAAAD]
+6.12.2025, 20:17:15 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:15 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:16 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:16 - DEBUG - auth.service - login with username: undefined | guest123
+6.12.2025, 20:17:16 - ERROR - Failed to Login Invalid username or password | guest123
+6.12.2025, 20:17:16 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:17:16 - INFO - New connected socket [id: c79CbpgJeI6ikVlyAAAF]
+6.12.2025, 20:17:18 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:18 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:18 - DEBUG - auth.service - login with username: undefined | guest123
+6.12.2025, 20:17:18 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:18 - ERROR - Failed to Login Invalid username or password | guest123
+6.12.2025, 20:17:18 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:17:18 - INFO - New connected socket [id: bokafH8JRgLKwlAnAAAH]
+6.12.2025, 20:17:39 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:17:39 - INFO - New connected socket [id: zSCTf1eRm5v4lI67AAAJ]
+6.12.2025, 20:17:40 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:17:40 - INFO - New connected socket [id: k2Q9z-F24v925Fj4AAAL]
+6.12.2025, 20:17:41 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:41 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:41 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:17:48 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:17:48 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:17:48 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:17:53 - INFO - Broadcasting event: event-add-task | guest123
+6.12.2025, 20:17:53 - INFO - Emit to room: 693472b32f3e00e47ebc8d05 | guest123
+6.12.2025, 20:19:06 - INFO - Server is running on port: 3030
+6.12.2025, 20:19:07 - INFO - New connected socket [id: EDsmYp9impqhMo-UAAAB]
+6.12.2025, 20:19:10 - INFO - Removing socket.userId for socket [id: EDsmYp9impqhMo-UAAAB]
+6.12.2025, 20:19:11 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:19:11 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:19:12 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:19:26 - INFO - /api/board | POST | {"title":"123","privacy":"main","managingType":"item","isStarred":false,"createdAt":1765045165978,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"hN1A0p","title":"Group 1","createdAt":1765045165978,"isCollapsed":false,"tasks":[{"id":"sSFfII","title":"Item 1","createdAt":1765045165978,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"7nijF0","title":"Item 2","createdAt":1765045165978,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#fccb29"}}],"activities":[]} | {} | guest123
+6.12.2025, 20:19:26 - INFO - Broadcasting event: event-add-board | guest123
+6.12.2025, 20:19:26 - INFO - Emit to all | guest123
+6.12.2025, 20:19:26 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:19:26 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:19:26 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:21:26 - INFO - Server is running on port: 3030
+6.12.2025, 20:21:26 - INFO - New connected socket [id: 0vCeJcphlRFRIrjVAAAB]
+6.12.2025, 20:21:33 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:21:33 - INFO - New connected socket [id: 6Ik8yoXwdEK3P6nWAAAD]
+6.12.2025, 20:21:33 - INFO - Setting socket.userId = null for socket [id: 6Ik8yoXwdEK3P6nWAAAD]
+6.12.2025, 20:21:33 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:21:33 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:21:34 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:21:35 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:21:44 - INFO - /api/board | POST | {"title":"10000","privacy":"main","managingType":"item","isStarred":false,"createdAt":1765045304718,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"O5Mjof","title":"Group 1","createdAt":1765045304718,"isCollapsed":false,"tasks":[{"id":"vOMe58","title":"Item 1","createdAt":1765045304718,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"xkQJvr","title":"Item 2","createdAt":1765045304718,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#1e7eb3"}}],"activities":[]} | {} | guest123
+6.12.2025, 20:21:44 - INFO - Broadcasting event: event-add-board | guest123
+6.12.2025, 20:21:44 - INFO - Emit to all | guest123
+6.12.2025, 20:21:44 - INFO - Socket is leaving topic 693473aeb2754adcf6a0b30d [id: 6Ik8yoXwdEK3P6nWAAAD]
+6.12.2025, 20:21:44 - INFO - /api/board | GET |  | {"boardId":"693474387c638ee804f558b8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:21:45 - INFO - /api/board | GET |  | {"boardId":"693474387c638ee804f558b8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:23:10 - INFO - Server is running on port: 3030
+6.12.2025, 20:23:10 - INFO - New connected socket [id: yRI0qf1B2O9KkBnXAAAB]
+6.12.2025, 20:23:18 - INFO - /api/board | POST | {"title":"09090","privacy":"main","managingType":"item","isStarred":false,"createdAt":1765045398194,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"qA8GS2","title":"Group 1","createdAt":1765045398194,"isCollapsed":false,"tasks":[{"id":"mNmDTi","title":"Item 1","createdAt":1765045398194,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"jlNQcL","title":"Item 2","createdAt":1765045398194,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#b83055"}}],"activities":[]} | {} | guest123
+6.12.2025, 20:23:19 - INFO - Broadcasting event: event-add-board | guest123
+6.12.2025, 20:23:19 - INFO - Emit to all | guest123
+6.12.2025, 20:23:19 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:23:19 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:30 - INFO - Server is running on port: 3030
+6.12.2025, 20:26:31 - INFO - New connected socket [id: 3Ms-YQ5Ld4YeHd0pAAAB]
+6.12.2025, 20:26:32 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:26:32 - INFO - New connected socket [id: 300qQXHuYR-yqN9SAAAD]
+6.12.2025, 20:26:32 - INFO - Setting socket.userId = null for socket [id: 300qQXHuYR-yqN9SAAAD]
+6.12.2025, 20:26:32 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:32 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:26:33 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:33 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:38 - INFO - Broadcasting event: event-add-task | guest123
+6.12.2025, 20:26:38 - INFO - No active socket for user: guest123 | guest123
+6.12.2025, 20:26:45 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:26:45 - INFO - New connected socket [id: ek6RbeVdT3qZ1JCDAAAF]
+6.12.2025, 20:26:45 - INFO - Setting socket.userId = null for socket [id: ek6RbeVdT3qZ1JCDAAAF]
+6.12.2025, 20:26:45 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:45 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:26:46 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:46 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:52 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:26:52 - INFO - New connected socket [id: 50_t8XTm_6UWEtUYAAAH]
+6.12.2025, 20:26:52 - INFO - Setting socket.userId = null for socket [id: 50_t8XTm_6UWEtUYAAAH]
+6.12.2025, 20:26:52 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:52 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:26:52 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:26:52 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:27:00 - INFO - Broadcasting event: event-update-board | guest123
+6.12.2025, 20:27:00 - INFO - No active socket for user: guest123 | guest123
+6.12.2025, 20:27:12 - INFO - Socket disconnected [id: undefined]
+6.12.2025, 20:27:12 - INFO - New connected socket [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:12 - INFO - Setting socket.userId = null for socket [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:12 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:27:12 - INFO - /api/board | GET |  | {} | guest123
+6.12.2025, 20:27:13 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:27:13 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | guest123
+6.12.2025, 20:27:14 - INFO - Removing socket.userId for socket [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:18 - DEBUG - auth.service - login with username: Anna85 | guest123
+6.12.2025, 20:27:18 - INFO - User login:  | {"_id":"690f9fe49e98d9b906660e53","username":"Anna85","fullname":"Anna Yakerson","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":false,"profession":null} | guest123
+6.12.2025, 20:27:18 - INFO - Setting socket.userId = 690f9fe49e98d9b906660e53 for socket [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:19 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:19 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:19 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:21 - INFO - Socket is leaving topic 6934749724a5f5f3baa6682a [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:21 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:21 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:22 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:25 - INFO - Removing socket.userId for socket [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:27 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:27 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:27 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:29 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:29 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:29 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:42 - INFO - Broadcasting event: event-add-task | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:42 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:45 - INFO - Broadcasting event: event-remove-task | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:45 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:47 - INFO - Socket is leaving topic 69214cf61c2180f0a91a4d3d [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:47 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:47 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:48 - INFO - Socket is leaving topic 693472b32f3e00e47ebc8d05 [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:48 - INFO - /api/board | GET |  | {"boardId":"6933686bfd8bcaef88f4802a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:48 - INFO - /api/board | GET |  | {"boardId":"6933686bfd8bcaef88f4802a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:48 - INFO - Socket is leaving topic 6933686bfd8bcaef88f4802a [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:48 - INFO - /api/board | GET |  | {"boardId":"6933682efd8bcaef88f48029","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:48 - INFO - /api/board | GET |  | {"boardId":"6933682efd8bcaef88f48029","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:48 - INFO - Socket is leaving topic 6933682efd8bcaef88f48029 [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:48 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:49 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:49 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:50 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:50 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:50 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:50 - INFO - Socket is leaving topic 69214cf61c2180f0a91a4d3d [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:50 - INFO - /api/board | GET |  | {"boardId":"6933682efd8bcaef88f48029","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:50 - INFO - /api/board | GET |  | {"boardId":"6933682efd8bcaef88f48029","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:50 - INFO - Socket is leaving topic 6933682efd8bcaef88f48029 [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:51 - INFO - /api/board | GET |  | {"boardId":"6933686bfd8bcaef88f4802a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:51 - INFO - /api/board | GET |  | {"boardId":"6933686bfd8bcaef88f4802a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:51 - INFO - Socket is leaving topic 6933686bfd8bcaef88f4802a [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:51 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:51 - INFO - /api/board | GET |  | {"boardId":"693472b32f3e00e47ebc8d05","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:52 - INFO - Socket is leaving topic 693472b32f3e00e47ebc8d05 [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:52 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:52 - INFO - /api/board | GET |  | {"boardId":"693473aeb2754adcf6a0b30d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:52 - INFO - Socket is leaving topic 693473aeb2754adcf6a0b30d [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:52 - INFO - /api/board | GET |  | {"boardId":"693474387c638ee804f558b8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:53 - INFO - /api/board | GET |  | {"boardId":"693474387c638ee804f558b8","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:53 - INFO - Socket is leaving topic 693474387c638ee804f558b8 [id: pEu1c4sCVZcyNtsAAAAJ]
+6.12.2025, 20:27:53 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:53 - INFO - /api/board | GET |  | {"boardId":"6934749724a5f5f3baa6682a","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:27:59 - INFO - Server is running on port: 3030
+6.12.2025, 20:28:00 - INFO - New connected socket [id: OEIvhnK_CrD-28ABAAAB]
+6.12.2025, 20:28:08 - INFO - /api/board | POST | {"title":"99999999","privacy":"main","managingType":"item","isStarred":false,"createdAt":1765045688817,"priorities":[{"id":"critical","txt":"Critical","cssVar":"--primary-text-color"},{"id":"high","txt":"High","cssVar":"--group-title-clr7"},{"id":"medium","txt":"Medium","cssVar":"--group-title-clr8"},{"id":"low","txt":"Low","cssVar":"--group-title-clr9"},{"id":"default","txt":"","cssVar":"--group-title-clr18"}],"statuses":[{"id":"done","txt":"Done","cssVar":"--group-title-clr2"},{"id":"working","txt":"Working on it","cssVar":" --group-title-clr16"},{"id":"stuck","txt":"Stuck","cssVar":"--group-title-clr12"},{"id":"default","txt":"Not Started","cssVar":"--group-title-clr18"}],"cmpOrder":["members","status","date"],"members":[],"groups":[{"id":"Kxg5jP","title":"Group 1","createdAt":1765045688818,"isCollapsed":false,"tasks":[{"id":"MRyOME","title":"Item 1","createdAt":1765045688818,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]},{"id":"4c2DMa","title":"Item 2","createdAt":1765045688818,"memberIds":[],"priority":{"txt":"Default Label","cssVar":"--group-title-clr18","id":"default"},"status":{"txt":"Not Started","cssVar":"--group-title-clr18","id":"default"},"updates":[]}],"style":{"--group-color":"#db2a4d"}}],"activities":[]} | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:10 - INFO - Broadcasting event: event-add-board | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:10 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:10 - INFO - /api/board | GET |  | {"boardId":"693475ba81bbb08cf53bad97","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:10 - INFO - /api/board | GET |  | {"boardId":"693475ba81bbb08cf53bad97","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:15 - INFO - Broadcasting event: event-add-task | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:15 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
+6.12.2025, 20:28:19 - INFO - Server is running on port: 3030
+6.12.2025, 20:28:21 - INFO - New connected socket [id: Rmfd2QWyhmgg_tQ4AAAB]

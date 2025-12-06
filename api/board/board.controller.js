@@ -39,6 +39,8 @@ export async function getBoardById(req, res) {
 
 export async function addBoard(req, res) {
     const { loggedinUser, body: board } = req
+    console.log(loggedinUser);
+    
 
     try {
 
