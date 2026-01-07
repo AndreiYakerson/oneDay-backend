@@ -16,8 +16,6 @@ import {
 
 const router = express.Router()
 
-// We can add a middleware for the entire router:
-// router.use(requireAuth)
 
 router.get('/', log, getBoards)
 router.get('/dashboard', log, getDashboardData)
@@ -47,7 +45,6 @@ router.delete('/task/:boardId/:groupId/:taskId', requireAuth, removeTask)
 
 
 
-// router.delete('/:id', requireAuth, requireAdmin, removeBoard)
 
 router.post('/:id/msg', requireAuth, addBoardMsg)
 router.delete('/:id/msg/:msgId', requireAuth, removeBoardMsg)

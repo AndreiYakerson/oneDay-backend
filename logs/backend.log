@@ -22580,3 +22580,40 @@
 6.12.2025, 20:28:15 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
 6.12.2025, 20:28:19 - INFO - Server is running on port: 3030
 6.12.2025, 20:28:21 - INFO - New connected socket [id: Rmfd2QWyhmgg_tQ4AAAB]
+6.12.2025, 20:39:40 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:41 - INFO - Removing socket.userId for socket [id: ucKv8h2j0kx2vYuKAAAB]
+6.12.2025, 20:39:41 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:42 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:42 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:42 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:46 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:46 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:46 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:51 - INFO - Broadcasting event: event-add-task | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:51 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:54 - INFO - Broadcasting event: event-remove-task | 690f9fe49e98d9b906660e53
+6.12.2025, 20:39:54 - INFO - No active socket for user: 690f9fe49e98d9b906660e53 | 690f9fe49e98d9b906660e53
+6.12.2025, 20:42:50 - INFO - Server is running on port: 3030
+6.12.2025, 20:42:52 - INFO - New connected socket [id: 0NcTVim_8Aif6h9BAAAB]
+8.12.2025, 20:20:04 - INFO - Server is running on port: 3030
+8.12.2025, 20:20:11 - INFO - New connected socket [id: rcRNmCU3fmaC8KFPAAAB]
+8.12.2025, 20:20:21 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+8.12.2025, 20:20:21 - INFO - /api/board | GET |  | {} | 690f9fe49e98d9b906660e53
+8.12.2025, 20:20:22 - DEBUG - auth.service - signup with username: HappyGuest4, fullname: HappyGuest | 690f9fe49e98d9b906660e53
+8.12.2025, 20:20:22 - DEBUG - auth.route - new account created: {"username":"HappyGuest4","password":"$2b$10$IdorHAH6gqjgtDK0rFrqjOBcjzzQplGQlYhUGOT3ebihMd3.KkaGa","fullname":"HappyGuest","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"693716e6ece6338038931eb3"} | 690f9fe49e98d9b906660e53
+8.12.2025, 20:20:22 - DEBUG - auth.service - login with username: HappyGuest4 | 690f9fe49e98d9b906660e53
+8.12.2025, 20:20:22 - INFO - User signup: | {"_id":"693716e6ece6338038931eb3","username":"HappyGuest4","fullname":"HappyGuest","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"profession":null} | 690f9fe49e98d9b906660e53
+8.12.2025, 20:20:22 - INFO - Setting socket.userId = 693716e6ece6338038931eb3 for socket [id: rcRNmCU3fmaC8KFPAAAB]
+8.12.2025, 20:20:25 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 693716e6ece6338038931eb3
+8.12.2025, 20:20:25 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 693716e6ece6338038931eb3
+8.12.2025, 20:20:25 - INFO - /api/board | GET |  | {"boardId":"69214cf61c2180f0a91a4d3d","filterByStr":"{\"byGroups\":[],\"byNames\":[],\"byStatuses\":[],\"byPriorities\":[],\"byMembers\":[],\"byDueDateOp\":[],\"byPerson\":\"\",\"sortBy\":\"\",\"dir\":-1}"} | 693716e6ece6338038931eb3
+8.12.2025, 20:20:29 - INFO - Broadcast to room 69214cf61c2180f0a91a4d3d excluding user: 693716e6ece6338038931eb3 | 693716e6ece6338038931eb3
+8.12.2025, 20:20:29 - INFO - Broadcasting event: event-add-group | 693716e6ece6338038931eb3
+8.12.2025, 20:20:33 - INFO - Broadcasting event: event-update-group | 693716e6ece6338038931eb3
+8.12.2025, 20:20:33 - INFO - Broadcast to room 69214cf61c2180f0a91a4d3d excluding user: 693716e6ece6338038931eb3 | 693716e6ece6338038931eb3
+8.12.2025, 20:23:26 - INFO - Broadcasting event: event-update-group | 693716e6ece6338038931eb3
+8.12.2025, 20:23:26 - INFO - Broadcast to room 69214cf61c2180f0a91a4d3d excluding user: 693716e6ece6338038931eb3 | 693716e6ece6338038931eb3
+8.12.2025, 20:23:35 - INFO - Broadcasting event: event-update-group | 693716e6ece6338038931eb3
+8.12.2025, 20:23:35 - INFO - Broadcast to room 69214cf61c2180f0a91a4d3d excluding user: 693716e6ece6338038931eb3 | 693716e6ece6338038931eb3
+8.12.2025, 20:23:45 - INFO - Broadcasting event: event-update-group | 693716e6ece6338038931eb3
+8.12.2025, 20:23:45 - INFO - Broadcast to room 69214cf61c2180f0a91a4d3d excluding user: 693716e6ece6338038931eb3 | 693716e6ece6338038931eb3
